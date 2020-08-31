@@ -1,4 +1,8 @@
+#Name: Replacements.zs
+#Author: ROMVoid95
 #priority 801
+
+print("Initializing 'Replacements.zs'...");
 
 val steel = <ore:ingotSteel>;
 
@@ -37,3 +41,6 @@ recipes.addShaped("ItemPipe Tier 4", tier4,
 recipes.addShaped("LogicSorter Crafting", <contenttweaker:sorter_item>, [[<minecraft:iron_ingot>, <minecraft:piston>, <minecraft:iron_ingot>],[<minecraft:iron_ingot>, <ore:circuitBasic>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
 
 recipes.addShapeless(<minecraft:egg>, [<minecraft:chicken>,<minecraft:feather>]);
+
+
+print("'Replacements.zs' Initialization Complete ...");

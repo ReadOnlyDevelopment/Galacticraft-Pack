@@ -1,8 +1,8 @@
-#Name: mekanism.zs
+#Name: Mekanism.zs
 #Author: ROMVoid95
 #priority 800
 
-print("Initializing 'mekanism.zs'...");
+print("Initializing 'Mekanism.zs'...");
 
   //Enrichment
 mods.mekanism.enrichment.addRecipe(<ore:oreAluminium>, <thermalfoundation:material:68> * 2);
@@ -16,3 +16,5 @@ mods.mekanism.crusher.addRecipe(<minecraft:sand>, <ic2:itemmisc:8>);
 recipes.remove(<mekanism:machineblock:4>);
 
 recipes.addShaped(<mekanism:machineblock:4>, [[<mekanism:atomicalloy>, <contenttweaker:sorter_item>, <mekanism:atomicalloy>],[<contenttweaker:sorter_item>, <mekanism:robit>, <contenttweaker:sorter_item>], [<mekanism:teleportationcore>, <mekanism:basicblock:8>, <mekanism:teleportationcore>]]);
+
+print("'Mekanism.zs' Initialization Complete ...");

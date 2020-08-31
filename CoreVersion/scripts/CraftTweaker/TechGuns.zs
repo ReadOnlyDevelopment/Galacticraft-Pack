@@ -1,4 +1,8 @@
-#priority 800
+#Name: TechGuns.zs
+#Author: ROMVoid95
+#priority 850
+
+print("Initializing 'Techguns.zs'...");
 
 import mods.techguns.MetalPress as MP;
 import mods.techguns.BlastFurnace as BF;
@@ -51,3 +55,5 @@ for item in remove {
 for item in hide {
 	disableAndHide(item);
 }
+
+print("'Techguns.zs' Initialization Complete ...");

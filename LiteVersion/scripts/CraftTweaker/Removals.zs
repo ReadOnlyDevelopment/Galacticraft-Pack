@@ -1,4 +1,8 @@
+#Name: Removals.zs
+#Author: ROMVoid95
 #priority 901
+
+print("Initializing 'Removals.zs'...");
 
 import crafttweaker.item.IItemStack;
 
@@ -31,3 +35,5 @@ function disable(input as IItemStack) {
 for item in removals {
 	disable(item);
 }
+
+print("'Removals.zs' Initialization Complete ...");
