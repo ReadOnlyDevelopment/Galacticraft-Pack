@@ -1,0 +1,14 @@
+customloadingscreen.modstate.minecraft_init=Starting
+customloadingscreen.modstate.construction=Initialization
+customloadingscreen.modstate.pre_initialization=Pre-Init
+customloadingscreen.modstate.initialization=Terra Init Sequence
+customloadingscreen.modstate.post_initialization=Post-Init Sequence
+customloadingscreen.modstate.completed=Complete
+customloadingscreen.modstate.reloading_resource_packs=Loading Resources
+customloadingscreen.mcstate.modelloader.items=Loading
+customloadingscreen.mcstate.modelloader.blocks=Loading
+customloadingscreen.mcstate.modelloader.bake=Models
+customloadingscreen.mcstate.texture.load=Textures
+customloadingscreen.mcstate.texture.stitch=Stiching
+customloadingscreen.loading=Loading
+customloadingscreen.finishing=Completed

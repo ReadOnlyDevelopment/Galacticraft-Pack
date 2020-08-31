@@ -1,0 +1,12 @@
+{
+  "parent": "builtin/text",
+  "image": "textures/font/ascii.png",
+  "position_type": "BOTTOM_CENTER",
+  "offset_pos": "CENTER",
+  "text": "'(Constructing Alternate Reality)'",
+  "position": {
+    "x": "0",
+    "y": "-20"
+  },
+  "colour":"0xFF_70_02_c2"
+}

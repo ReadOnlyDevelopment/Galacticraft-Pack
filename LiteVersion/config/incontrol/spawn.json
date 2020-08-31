@@ -1,0 +1,177 @@
+[
+    {
+    	"dimension": 0,
+        "mob": "minecraft:horse",
+        "mincount": {
+            "amount": 3,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+    	"dimension": 0,
+        "mob": "minecraft:squid",
+        "mincount": {
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+    	"dimension": 0,
+        "mob": "minecraft:pig",
+        "mincount": {
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+    	"dimension": 0,
+        "mob": "minecraft:cow",
+        "mincount": {
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+    	"dimension": 0,
+        "mob": "minecraft:sheep",
+        "mincount": {
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+    	"dimension": 0,
+        "mob": "minecraft:chicken",
+        "mincount": {
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+    	"dimension": 0,
+    	"mob": "minecraft:skeleton",
+    	"mincount": {
+      		"amount": 5,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"dimension": 0,
+    	"mob": "minecraft:zombie",
+    	"mincount": {
+      		"amount": 5,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"dimension": 0,
+    	"mob": "minecraft:creeper",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"dimension": 0,
+    	"mob": "minecraft:witch",
+    	"mincount": {
+      		"amount": 2,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"dimension": 0,
+    	"mob": "minecraft:endermen",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"dimension": 0,
+    	"mob": "minecraft:spider",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"dimension": 0,
+    	"mob": "minecraft:zombie_villager",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"mob": "galacticraftcore:evolved_spider",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"mob": "galacticraftcore:evolved_zombie",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"mob": "galacticraftcore:evolved_creeper",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"mob": "galacticraftcore:evolved_skeleton",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"mob": "galacticraftcore:evolved_enderman",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},
+  	{
+    	"mob": "galacticraftcore:evolved_witch",
+    	"mincount": {
+      		"amount": 3,
+      		"perplayer": true
+    	},
+    	"result": "deny"
+  	},  	
+  	{
+    	"dimension": 0,
+    	"mob": "tconstruct:blueslime",
+    	"result": "deny"
+  	},
+    {
+    	"dimension": 0,
+    	"mod": "techguns",
+    	"result": "deny"
+    }
+]
