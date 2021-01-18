@@ -1,5 +1,5 @@
 ---
-name: "\U0001F48E Mod Request"
+name: "Mod Request"
 about: Suggest a new mod
 title: ''
 labels: '{ Suggested Addition }'
