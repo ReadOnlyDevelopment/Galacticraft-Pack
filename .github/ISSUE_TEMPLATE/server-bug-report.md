@@ -1,8 +1,8 @@
 ---
-name: "\U0001F41B Client Bug Report"
-about: If you are experiencing an issue that exists when playing in singleplayer
+name: "\U0001F41B Server Bug Report"
+about: If you are experiencing an issue that exists when playing on a server
 title: ''
-labels: '[Client-Side]'
+labels: '[Server-Side]'
 assignees: ''
 
 ---
@@ -11,8 +11,7 @@ assignees: ''
 
 Please ensure that you fill in all the required information needed as specified by the template below. Enter text following any "<!-- 📝 -- >" in the template below.
 
-NOTE: If your issue was encountered after changing any configuration files, added or removed mods, or updated mods. revert to a clean install and test again with a crash/bug before posting.
-
+NOTE: If you have other mods installed or you have changed versions; please revert to a clean install and test again with a crash/bug before posting.
 -->
 
 
@@ -38,7 +37,6 @@ NOTE: If your issue was encountered after changing any configuration files, adde
 <!-- 📝
 Upload the latest/crash logs to PasteBin or Gist. DON'T Upload OR paste them to GitHub.
 It is preferred to use https://haste.romvoid.dev -->
-
 * Client/Server Log:<!-- 📝-->
 * Crash Log:<!-- 📝-->
 
@@ -58,3 +56,10 @@ It is preferred to use https://haste.romvoid.dev -->
 ## World Information
 * Modpack Version world created in:<!-- 📝-->
 * Additional Content Installed:<!-- 📝-->
+
+
+## Server Information
+* Java Version:<!-- 📝-->
+* Operating System:<!-- 📝-->
+* Hoster/Hosting Solution:<!-- 📝-->
+* Sponge (Non-Vanilla Forge) Server:<!-- 📝-->
