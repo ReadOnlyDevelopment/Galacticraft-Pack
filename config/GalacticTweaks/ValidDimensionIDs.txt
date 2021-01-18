@@ -1,0 +1,56 @@
+### NOTICE ###
+Planets & Moons that end with "ep" are added by ExtraPlanets.
+Please keep this in mind if choosing a planet that is added by both ExtraPlanets & GalaxySpace
+
+This file is regenerated every time minecraft is ran to handle any addons added or removed
+
+| ### PLANETS ###
+|------------------
+| Overworld                     0
+| Mercury 2.0                 -13
+| Jupiter 2.0                 -15
+| Saturn 2.0                  -16
+| Uranus 2.0                  -17
+| Neptune 2.0                 -18
+| Pluto 2.0                   -19
+| Ceres 2.0                   -20
+| Eris                        -21
+| Kepler 22b                  -22
+| Mars                        -29
+| Asteroids                   -30
+| Venus                       -31
+| Mercury                   -1005
+| Ceres                     -1007
+| Pluto                     -1008
+| Kuiper Belt               -1009
+| Proxima B                 -1025
+| Barnarda C                -1030
+| Diona                     -2542
+| Chalos                    -2543
+| Nibiru                    -2544
+
+
+| ### MOONS ###
+|------------------
+| Moon                        -28
+| Io                        -1014
+| Europa                    -1015
+| Ganymede                  -1016
+| Enceladus                 -1017
+| Titan                     -1018
+| Triton                    -1021
+| Callisto                  -1022
+| Miranda                   -1024
+| Io 2.0                    -1500
+| Europa 2.0                -1501
+| Phobos 2.0                -1502
+| Deimos 2.0                -1503
+| Triton 2.0                -1504
+| Callisto 2.0              -1505
+| Ganymede 2.0              -1506
+| Rhea 2.0                  -1507
+| Titan 2.0                 -1508
+| Oberon 2.0                -1509
+| Titania 2.0               -1510
+| Iapetus 2.0               -1511
+| Koentus                   -2642
