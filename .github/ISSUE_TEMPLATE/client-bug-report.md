@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41B Client Bug Report"
+name: "Client Bug Report"
 about: If you are experiencing an issue that exists when playing in singleplayer
 title: ''
 labels: '[Client-Side]'
