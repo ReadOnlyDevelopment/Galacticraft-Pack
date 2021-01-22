@@ -2157,8 +2157,12 @@ moreplanets:alien_ship_decoration_slab, Alien Ship Decoration Slab
 moreplanets:cheese_spore_slab, Cheese Spore Slab
 moreplanets:infected_oak_slab, Infected Oak Slab
 moreplanets:alien_berry_oak_slab, Alien Berry Oak Slab
+moreplanets:oscalea_slab, Oscalea Slab
+moreplanets:frolia_slab, Frolia Slab
 moreplanets:infected_oak_pressure_plate, Infected Oak Pressure Plate
 moreplanets:alien_berry_oak_pressure_plate, Alien Berry Oak Pressure Plate
+moreplanets:oscalea_pressure_plate, Oscalea Pressure Plate
+moreplanets:frolia_pressure_plate, Frolia Pressure Plate
 moreplanets:dark_energy_storage_cluster, Dark Energy Storage Cluster
 moreplanets:nuclear_waste_energy_storage_cluster, Nuclear Waste Energy Storage Cluster
 moreplanets:space_warp_pad, Space Warp Pad
@@ -2226,6 +2230,17 @@ moreplanets:fronos_mossy_stone_bricks, Fronos Mossy Stone Bricks
 moreplanets:fronos_cracked_stone_bricks, Fronos Cracked Stone Bricks
 moreplanets:fronos_chiseled_stone_bricks, Fronos Chiseled Stone Bricks
 moreplanets:fronos_dungeon_brick, Fronos Dungeon Brick
+moreplanets:fronos_grass, Fronos Grass
+moreplanets:large_wheat, Large Wheat
+moreplanets:fronos_tall_grass, Fronos Tall Grass
+moreplanets:oscalea_fence, Oscalea Fence
+moreplanets:frolia_fence, Frolia Fence
+moreplanets:oscalea_fence_gate, Oscalea Fence Gate
+moreplanets:frolia_fence_gate, Frolia Fence Gate
+moreplanets:oscalea_stairs, Oscalea Stairs
+moreplanets:frolia_stairs, Frolia Stairs
+moreplanets:oscalea_trapdoor, Oscalea Trapdoor
+moreplanets:frolia_trapdoor, Frolia Trapdoor
 moreplanets:fronos_iron_ore, Iron Ore
 moreplanets:fronos_gold_ore, Gold Ore
 moreplanets:fronos_tin_ore, Tin Ore
@@ -2290,7 +2305,7 @@ moreplanets:diona_dungeon_brick_stairs, Diona Dungeon Brick Stairs
 moreplanets:dark_energy_generator, Dark Energy Generator
 moreplanets:glowing_iron_block, Block of Glowing Iron
 moreplanets:crashed_alien_probe, Crashed Alien Probe
-moreplanets:alien_ship_decoration_stairs, tile.alien_ship_decoration_stairs.name
+moreplanets:alien_ship_decoration_stairs, Alien Ship Decoration Stairs
 moreplanets:koentus_regolith, Koentus Regolith
 moreplanets:koentus_fine_regolith, Koentus Fine Regolith
 moreplanets:koentus_rock, Koentus Rock
@@ -2409,6 +2424,10 @@ moreplanets:infected_deadwood_log, Infected Deadwood Log
 moreplanets:infected_spruce_log, Infected Spruce Log
 moreplanets:infected_jungle_log, Infected Jungle Log
 moreplanets:alien_berry_oak_log, Alien Berry Oak Log
+moreplanets:oscalea_log, Oscalea Log
+moreplanets:frolia_log, Frolia Log
+moreplanets:oscalea_planks, Oscalea Planks
+moreplanets:frolia_planks, Frolia Planks
 moreplanets:infected_oak_planks, Infected Oak Planks
 moreplanets:infected_spruce_planks, Infected Spruce Planks
 moreplanets:alien_berry_oak_planks, Alien Berry Oak Planks
@@ -2416,6 +2435,9 @@ moreplanets:infected_oak_leaves, Infected Oak Leaves
 moreplanets:infected_spruce_leaves, Infected Spruce Leaves
 moreplanets:infected_jungle_leaves, Infected Jungle Leaves
 moreplanets:alien_berry_oak_leaves, Alien Berry Oak Leaves
+moreplanets:oscalea_leaves, Oscalea Leaves
+moreplanets:frolia_leaves, Frolia Leaves
+moreplanets:flowering_frolia_leaves, Flowering Frolia Leaves
 moreplanets:infected_oak_sapling, Infected Oak Sapling
 moreplanets:infected_spruce_sapling, Infected Spruce Sapling
 moreplanets:infected_jungle_sapling, Infected Jungle Sapling
@@ -2428,6 +2450,14 @@ moreplanets:philipy, Philipy
 moreplanets:white_tail, White Tail
 moreplanets:vealium_vines, Vealium Vines
 moreplanets:terrashroom, Terrashroom
+moreplanets:nemophila, Nemophila
+moreplanets:pink_blechnum, Pink Blechnum
+moreplanets:purple_bush, Purple Bush
+moreplanets:fronos_fern, Fronos Fern
+moreplanets:fronos_lily_pad, Fronos Lily Pad
+moreplanets:fronos_mushroom, Fronos Mushroom
+moreplanets:oscalea_sapling, Oscalea Sapling
+moreplanets:frolia_sapling, Frolia Sapling
 moreplanets:infected_crafting_table, Infected Crafting Table
 moreplanets:alien_berry_crafting_table, Alien Berry Crafting Table
 moreplanets:infected_oak_bookshelf, Infected Oak Bookshelf
@@ -2603,12 +2633,15 @@ moreplanets:nuclear_waste_rod, Nuclear Waste Rod
 moreplanets:gravity_boots, Gravity Boots
 moreplanets:extrailonite_ingot, Extrailonite Ingot
 moreplanets:compressed_extrailonite, Compressed Extrailonite
+moreplanets:oscalea_door, Oscalea Door
+moreplanets:frolia_door, Frolia Door
 moreplanets:strawberry, Strawberry
 moreplanets:giant_blueberry, Giant Blueberry
 moreplanets:chocolate_bar, Chocolate Bar
 moreplanets:jelly_beans, Jelly Beans
 moreplanets:marshmallow, Marshmallow
 moreplanets:cooked_marshmallow, Cooked Marshmallow
+moreplanets:blue_pear, Blue Pear
 moreplanets:red_candy_cane_stick, Red Candy Cane Stick
 moreplanets:green_candy_cane_stick, Green Candy Cane Stick
 moreplanets:blue_candy_cane_stick, Blue Candy Cane Stick
@@ -3383,8 +3416,12 @@ thermaldynamics:cover:0, Alien Ship Decoration Slab Cover
 thermaldynamics:cover:0, Cheese Spore Slab Cover
 thermaldynamics:cover:0, Infected Oak Slab Cover
 thermaldynamics:cover:0, Alien Berry Oak Slab Cover
+thermaldynamics:cover:0, Oscalea Slab Cover
+thermaldynamics:cover:0, Frolia Slab Cover
 thermaldynamics:cover:0, Infected Oak Pressure Plate Cover
 thermaldynamics:cover:0, Alien Berry Oak Pressure Plate Cover
+thermaldynamics:cover:0, Oscalea Pressure Plate Cover
+thermaldynamics:cover:0, Frolia Pressure Plate Cover
 thermaldynamics:cover:0, Alien Ship Booster Cover
 thermaldynamics:cover:0, Alien Ship Decoration Cover
 thermaldynamics:cover:0, Alien Ship Decoration Cover
@@ -3442,6 +3479,17 @@ thermaldynamics:cover:0, Fronos Mossy Stone Bricks Cover
 thermaldynamics:cover:0, Fronos Cracked Stone Bricks Cover
 thermaldynamics:cover:0, Fronos Chiseled Stone Bricks Cover
 thermaldynamics:cover:0, Fronos Dungeon Brick Cover
+thermaldynamics:cover:0, Fronos Grass Cover
+thermaldynamics:cover:0, Large Wheat Cover
+thermaldynamics:cover:0, Fronos Tall Grass Cover
+thermaldynamics:cover:0, Oscalea Fence Cover
+thermaldynamics:cover:0, Frolia Fence Cover
+thermaldynamics:cover:0, Oscalea Fence Gate Cover
+thermaldynamics:cover:0, Frolia Fence Gate Cover
+thermaldynamics:cover:0, Oscalea Stairs Cover
+thermaldynamics:cover:0, Frolia Stairs Cover
+thermaldynamics:cover:0, Oscalea Trapdoor Cover
+thermaldynamics:cover:0, Frolia Trapdoor Cover
 thermaldynamics:cover:0, Iron Ore Cover
 thermaldynamics:cover:0, Gold Ore Cover
 thermaldynamics:cover:0, Tin Ore Cover
@@ -3494,7 +3542,7 @@ thermaldynamics:cover:0, Infected Purlonite Slime Block Cover
 thermaldynamics:cover:0, Diona Cobblestone Stairs Cover
 thermaldynamics:cover:0, Diona Dungeon Brick Stairs Cover
 thermaldynamics:cover:0, Block of Glowing Iron Cover
-thermaldynamics:cover:0, tile.alien_ship_decoration_stairs.name Cover
+thermaldynamics:cover:0, Alien Ship Decoration Stairs Cover
 thermaldynamics:cover:0, Koentus Regolith Cover
 thermaldynamics:cover:0, Koentus Fine Regolith Cover
 thermaldynamics:cover:0, Koentus Rock Cover
@@ -3606,6 +3654,10 @@ thermaldynamics:cover:0, Infected Deadwood Log Cover
 thermaldynamics:cover:0, Infected Spruce Log Cover
 thermaldynamics:cover:0, Infected Jungle Log Cover
 thermaldynamics:cover:0, Alien Berry Oak Log Cover
+thermaldynamics:cover:0, Oscalea Log Cover
+thermaldynamics:cover:0, Frolia Log Cover
+thermaldynamics:cover:0, Oscalea Planks Cover
+thermaldynamics:cover:0, Frolia Planks Cover
 thermaldynamics:cover:0, Infected Oak Planks Cover
 thermaldynamics:cover:0, Infected Spruce Planks Cover
 thermaldynamics:cover:0, Alien Berry Oak Planks Cover
@@ -3613,6 +3665,9 @@ thermaldynamics:cover:0, Infected Oak Leaves Cover
 thermaldynamics:cover:0, Infected Spruce Leaves Cover
 thermaldynamics:cover:0, Infected Jungle Leaves Cover
 thermaldynamics:cover:0, Alien Berry Oak Leaves Cover
+thermaldynamics:cover:0, Oscalea Leaves Cover
+thermaldynamics:cover:0, Frolia Leaves Cover
+thermaldynamics:cover:0, Flowering Frolia Leaves Cover
 thermaldynamics:cover:0, Infected Oak Sapling Cover
 thermaldynamics:cover:0, Infected Spruce Sapling Cover
 thermaldynamics:cover:0, Infected Jungle Sapling Cover
@@ -3625,6 +3680,14 @@ thermaldynamics:cover:0, Philipy Cover
 thermaldynamics:cover:0, White Tail Cover
 thermaldynamics:cover:0, Vealium Vines Cover
 thermaldynamics:cover:0, Terrashroom Cover
+thermaldynamics:cover:0, Nemophila Cover
+thermaldynamics:cover:0, Pink Blechnum Cover
+thermaldynamics:cover:0, Purple Bush Cover
+thermaldynamics:cover:0, Fronos Fern Cover
+thermaldynamics:cover:0, Fronos Lily Pad Cover
+thermaldynamics:cover:0, Fronos Mushroom Cover
+thermaldynamics:cover:0, Oscalea Sapling Cover
+thermaldynamics:cover:0, Frolia Sapling Cover
 thermaldynamics:cover:0, Infected Crafting Table Cover
 thermaldynamics:cover:0, Alien Berry Crafting Table Cover
 thermaldynamics:cover:0, Infected Oak Bookshelf Cover
@@ -6915,6 +6978,10 @@ appliedenergistics2:facade:0, Cable Facade - Infected Deadwood Log
 appliedenergistics2:facade:0, Cable Facade - Infected Spruce Log
 appliedenergistics2:facade:0, Cable Facade - Infected Jungle Log
 appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Log
+appliedenergistics2:facade:0, Cable Facade - Oscalea Log
+appliedenergistics2:facade:0, Cable Facade - Frolia Log
+appliedenergistics2:facade:0, Cable Facade - Oscalea Planks
+appliedenergistics2:facade:0, Cable Facade - Frolia Planks
 appliedenergistics2:facade:0, Cable Facade - Infected Oak Planks
 appliedenergistics2:facade:0, Cable Facade - Infected Spruce Planks
 appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Planks
@@ -6922,6 +6989,9 @@ appliedenergistics2:facade:0, Cable Facade - Infected Oak Leaves
 appliedenergistics2:facade:0, Cable Facade - Infected Spruce Leaves
 appliedenergistics2:facade:0, Cable Facade - Infected Jungle Leaves
 appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Leaves
+appliedenergistics2:facade:0, Cable Facade - Oscalea Leaves
+appliedenergistics2:facade:0, Cable Facade - Frolia Leaves
+appliedenergistics2:facade:0, Cable Facade - Flowering Frolia Leaves
 appliedenergistics2:facade:0, Cable Facade - Infected Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Alien Berry Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Infected Oak Bookshelf
@@ -11273,34 +11343,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -12346,7 +12416,19 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -12463,64 +12545,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -14244,6 +14326,10 @@ extraplanets:green_diamond_helmet, Green Diamond Helmet
 extraplanets:green_diamond_chest, Green Diamond Chestplate
 extraplanets:green_diamond_legings, Green Diamond Leggings
 extraplanets:green_diamond_boots, Green Diamond Boots
+extraplanets:tier0_space_suit_helmet, Temporary Space Suit Helmet
+extraplanets:tier0_space_suit_chest, Temporary Space Suit Chestplate
+extraplanets:tier0_space_suit_legings, Temporary Space Suit Leggings
+extraplanets:tier0_space_suit_boots, Temporary Space Suit Boots
 extraplanets:tier1_space_suit_helmet, Tier 1 Space Suit Helmet
 extraplanets:tier1_space_suit_chest, Tier 1 Space Suit Chestplate
 extraplanets:tier1_space_suit_jetpack_chest, Tier 1 Space Suit Jetpack Chestplate
@@ -14449,6 +14535,7 @@ extraplanets:tier4_un_prepared_space_suit_helmet:0, Tier 4 Un-Prepared Space Sui
 extraplanets:tier4_un_prepared_space_suit_chest:0, Tier 4 Un-Prepared Space Suit Chestplate
 extraplanets:tier4_un_prepared_space_suit_legings:0, Tier 4 Un-Prepared Space Suit Leggings
 extraplanets:tier4_un_prepared_space_suit_boots:0, Tier 4 Un-Prepared Space Suit Boots
+extraplanets:enviro_emergency_kit, Environment Emergency Kit
 extraplanets:module_items:0, No Fall Damage Module
 extraplanets:module_items:1, Oxygen Controller
 extraplanets:module_items:2, Space Gear Controller

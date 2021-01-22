@@ -28,6 +28,7 @@ This file is regenerated every time minecraft is ran to handle any addons added 
 | Diona                     -2542
 | Chalos                    -2543
 | Nibiru                    -2544
+| Fronos                    -2545
 
 
 | ### MOONS ###
