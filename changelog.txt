@@ -1,0 +1,71 @@
+===================================================
+Galacticraft-Pack 3.1.2 --> Galacticraft-Pack 3.2.0
+===================================================
+
+Updated:
+	ExtraPlanets (ExtraPlanets-1.12.2-0.7.0.jar --> ExtraPlanets-1.12.2-0.7.1.jar):
+		ExtraPlanets-1.12.2-0.7.1.jar:
+			*Added a Environment Emergency Kit with a temporary Space Suit
+			*Fixed Geiger Counter output being old style of radiation display output
+			*Changed Temp Space Suit ticks & Modules Tick for Space Suits to not run during certain gamemodes
+			*Added support for /gckit command to give Environment Emergency Kit item aswell
+			*Added Basic/Advanced Solar Panel modules for space suit
+			*Improved the Evolved Magma Cube Boss Texture
+			*Changed Evolved Magma Cube Boss to be immune from fire
+			*Bit of code clean up for Evolved Magma Cube Boss rendering
+			*Added a Evolved Magma Cube Mob for use in Mercury Dungeons
+			*Improved/Added more content to the Mercury Dungeons
+			*Added Evolved Ancient Magma Cubes for use in Jupiter Dungeons
+			*Improved/Added more content to the Jupiter Dungeons
+			*Added logWood ore dict for all Kepler22b Log Blocks
+			*Added plankWood ore dict for all Kepler22b Plank Blocks
+			*Added tooltip to Space suits regarding power being only needed for space suits
+			*Fixed issue #595 - Kepler22b Planks &gt; Vanilla Pressure Plates Crafting issue
+			*Fixed All Axes, Hoes, Shovels, Swords, Pickaxes tools holding and inventory displays for MC 1.10.2+ (Fixes issue #596)
+			*Added a config (on by default) of "Use Realistic Atmosphere Sky Colous for Planets/Moons" which will disable colour sky/fog for phobos, deimos, callisto, ganymede, titania, ceres and oberon & more (#585)
+			*Added fire affect to when a player is in magma (Currently doesnt work fully but looks better than no fire)
+			*Fixed lava effect overlay, when in lava not rendering due to fog rendering, (Issue #500)
+			*Fixed issue #604 - Crafttweaker Rocket Recipes adds recipes for rocket parts
+
+	GalacticTweaks (GalacticTweaks-1.5.1.jar --> GalacticTweaks-1.6.0.jar):
+		GalacticTweaks-1.6.0.jar:
+			[Fixed]
+			* Client crash due to Version Checker
+
+	More Planets - Galacticraft Add-on (More-Planets-1.12.2-2.1.14-GC261 --> More-Planets-1.12.2-2.2.1-GC280):
+		More-Planets-1.12.2-2.2.1-GC280:
+			Change Log
+			* * Downgrade GC Build to 280
+			* * Ore Dictionary support for some Fronos Blocks
+			* * Attempt to fix performance issue with Shield Generator, #104
+			* * Fixed crash when Vein Floater death, closed #106
+			* * Update Russian Language
+
+		More-Planets-1.12.2-2.2.0-GC281:
+			Change Log
+			* + A Dog House
+			* + Re-Added Fronos Planet
+			* + Added a New Texture for Fronos Planet
+			* + Added New Blocks (Fronos Grass, Fronos Tall Grass, Fronos Fern, Fronos Lily Pad, Fronos Mushroom, Pink Blechnum, Nemophila, Large Wheat, Purple Bush)
+			* + Added New Logs/Planks/Trees/Saplings/Doors/Trapdoors (Oscalea, Frolia)
+			* + Added 4 Fronos Biomes (Meadow, Plains, River, Forest)
+			* + Added Blue Pear
+			* * World Environment color is now working, Chalos render more yellowish and Koentus render more bluish
+			* * Marshmallow sitting now plays cloth sound
+			* * Blue Pear now used to tempt Fronos Creatures
+			* * Wheat now used to breed Fronos Creatures
+			* * Some minor fixes to Fronos Creatures facial animation/texture
+			* * Fixed crash when trying render Infected Purlonite effect, Compatibility with JustEnoughResources. Closed #99
+			* * Fixed locale issues
+			* * Fixed some slab blocks not burning
+			* * Fixed breaking particle for Fronos Grass Block
+			* - Removed condition from 'space_portal' recipe
+
+	RandomTweaks (RandomTweaks 1.12.2-2.8.2.1 --> RandomTweaks 1.12.2-2.8.2.2):
+		RandomTweaks 1.12.2-2.8.2.2:
+			Fixed parrot feeding.
+
+Removed:
+- In Control!
+
+Generated using [ChangelogGenerator 2.0.0-pre3](https://github.com/TheRandomLabs/ChangelogGenerator).
