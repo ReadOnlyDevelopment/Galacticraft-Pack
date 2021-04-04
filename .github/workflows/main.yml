@@ -1,6 +1,6 @@
 on:
   issues:
-    types: [opened, edited]
+    types: [opened, edited, labeled]
 
 jobs:
   auto_close_issues:
