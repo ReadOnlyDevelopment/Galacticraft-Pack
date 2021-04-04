@@ -4,14 +4,18 @@
 perform: true
 
 # Number of days of inactivity before an Issue or Pull Request becomes stale
-daysUntilStale: 30
+daysUntilStale: 7
 
 # Number of days of inactivity before a stale Issue or Pull Request is closed.
 # Set to false to disable. If disabled, issues still need to be closed manually, but will remain marked as stale.
-daysUntilClose: 7
+daysUntilClose: 14
 
 # Issues or Pull Requests with these labels will never be considered stale. Set to `[]` to disable
-exemptLabels: []
+exemptLabels:
+  - "High Priority"
+  - "{ Suggested Addition }"
+  - "{ Suggested Change }"
+  - "Low Priority"
 
 # Set to true to ignore issues in a project (defaults to false)
 exemptProjects: false
@@ -20,7 +24,7 @@ exemptProjects: false
 exemptMilestones: true
 
 # Label to use when marking as stale
-staleLabel: "Status: Stale"
+staleLabel: "Stale"
 
 # Comment to post when marking as stale. Set to `false` to disable
 markComment: >
