@@ -1,0 +1,8 @@
+printDefaultConfigs(false)
+printDocumentation(false)
+removeVanillaAdvancements(true)
+removeModAdvancements(false)
+forceReloadFunctions(true)
+keepAdvancements([""])
+removeAdvancements([""])
+pageOrder(["triumph:main/root"])

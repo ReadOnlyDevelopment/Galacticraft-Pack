@@ -1,0 +1,8 @@
+setTranslatedTitle("advancements.main.root.title")
+setIcon(galacticraftcore:key)
+setBackground("galacticraftcore:textures/blocks/screen_side.png")
+setShowToast(false)
+setAnnounceToChat(false)
+setRequirements("any")
+addCriteria("location", "minecraft:location")
+setRewardExperience(5)

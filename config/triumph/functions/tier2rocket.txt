@@ -1,0 +1,1 @@
+give @p galacticraftcore:schematic 1 1

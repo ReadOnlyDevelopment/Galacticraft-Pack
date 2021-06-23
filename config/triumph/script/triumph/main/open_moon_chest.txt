@@ -1,0 +1,24 @@
+setTranslatedTitle("advancements.main.schematic.title")
+
+setIcon("galacticraftplanets:rocket_t2")
+
+setTranslatedDescription("advancements.main.schematic.description")
+
+addParent("triumph:main/root")
+setRequiresParents()
+
+setFrameType("Goal")
+
+setUncompletedIconColor(8947848)
+setCompletedIconColor(6570404)
+setUncompletedTitleColor(8947848)
+setCompletedTitleColor(6570404)
+
+//Criteria
+criteria = addCriteria("clickedBlock", "triumph:right_click_block")
+criteria.setBlock(galacticraftcore:treasure_chest)
+
+//Rewards
+setRewardFunction("triumph:tier2rocket")
+
+visibleIf("triumph:main/root")

@@ -25,10 +25,27 @@ This file is regenerated every time minecraft is ran to handle any addons added 
 | Kuiper Belt               -1009
 | Proxima B                 -1025
 | Barnarda C                -1030
+| planet.example_planet           -1100
+| Tau Ceti F                -1338
 | Diona                     -2542
 | Chalos                    -2543
 | Nibiru                    -2544
 | Fronos                    -2545
+| Vortex                    -7675
+| Candora                   -7777
+| Caligro                   -7877
+| Altum                     -7878
+| Perdita                   -7979
+| Exodus                    -7980
+| Zollus                    -7982
+| Xathius                   -7983
+| Xantheon                  -7984
+| Purgot                    -7988
+| Oasis                     -7990
+| Metztli                   -7991
+| Kriffon                   -7994
+| Eden                      -7996
+| Atheon                    -7998
 
 
 | ### MOONS ###

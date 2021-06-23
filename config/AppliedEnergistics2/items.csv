@@ -116,7 +116,7 @@ minecraft:stone_pressure_plate, Stone Pressure Plate
 minecraft:wooden_pressure_plate, Wooden Pressure Plate
 minecraft:redstone_ore, Redstone Ore
 minecraft:redstone_torch, Redstone Torch
-minecraft:stone_button, Stone Button
+minecraft:stone_button, Button
 minecraft:snow_layer, Snow
 minecraft:ice, Ice
 minecraft:snow, Snow
@@ -193,7 +193,7 @@ minecraft:command_block, Command Block
 minecraft:beacon, Beacon
 minecraft:cobblestone_wall:0, Cobblestone Wall
 minecraft:cobblestone_wall:1, Mossy Cobblestone Wall
-minecraft:wooden_button, Wooden Button
+minecraft:wooden_button, Button
 minecraft:anvil:0, Anvil
 minecraft:anvil:1, Slightly Damaged Anvil
 minecraft:anvil:2, Very Damaged Anvil
@@ -1935,6 +1935,564 @@ opencomputers:misc:0, Creatix
 opencomputers:misc:0, Tablet
 opencomputers:misc:0, Hover Boots
 opencomputers:misc:0, EEPROM (Lua BIOS)
+zollerngalaxy:heartofzol, Zollus Heartium
+zollerngalaxy:zolluscrystal, Zolnium Crystal
+zollerngalaxy:kriffoncrystal, Kriffon Crystal
+zollerngalaxy:purgotcrystal, Purgot Crystal
+zollerngalaxy:edencrystal, Eden's Crystal
+zollerngalaxy:purgotessence, Oasis Gem
+zollerngalaxy:prometheancrystal, Promethean Crystal
+zollerngalaxy:plutoniumcrystal, Plutonium Crystal
+zollerngalaxy:azurite, Azurite
+zollerngalaxy:ascendium, Ascendium
+zollerngalaxy:rokkite, Rokkite
+zollerngalaxy:stormcrystalgem, Storm Crystal Gem
+zollerngalaxy:brightstonedust, Britestone Dust
+zollerngalaxy:shinestonedust, Shinestone Dust
+zollerngalaxy:rawviri, Raw Virinium
+zollerngalaxy:eveniumdust, Pulverized Evenium
+zollerngalaxy:cobaltdust, Pulverized Cobalt
+zollerngalaxy:fueltoniumraw, Raw Fuelonite
+zollerngalaxy:shiniumdust, Shinium Dust
+zollerngalaxy:chargiumdust, Chargium Blend
+zollerngalaxy:diamonddust, Pulverized Diamond
+zollerngalaxy:emeralddust, Pulverized Emerald
+zollerngalaxy:amaranthdust, Amaranth Dust
+zollerngalaxy:zollerniumdust, Zollernium Dust
+zollerngalaxy:zincdust, Zinc Dust
+zollerngalaxy:zucritedust, Zucrite Dust
+zollerngalaxy:rhodiumdust, Rhodium Dust
+zollerngalaxy:ingotviri, Virinium Ingot
+zollerngalaxy:ingotcobalt, Cobalt Ingot
+zollerngalaxy:ingotevenium, Evenium Ingot
+zollerngalaxy:shinestoneingot, Shinestone Ingot
+zollerngalaxy:shiniumingot, Shinium Ingot
+zollerngalaxy:chargiumingot, Chargium Ingot
+zollerngalaxy:fueltoniumingot, Fueltonium Ingot
+zollerngalaxy:lapisingot, Lapis Ingot
+zollerngalaxy:amaranthingot, Amaranth Ingot
+zollerngalaxy:ascendantamaranthingot, Ascendant Amaranth Ingot
+zollerngalaxy:zollerniumingot, Zollernium Ingot
+zollerngalaxy:zincingot, Zinc Ingot
+zollerngalaxy:etriumingot, Etrium Ingot
+zollerngalaxy:zucriteingot, Zucrite Ingot
+zollerngalaxy:rhodiumingot, Rhodium Ingot
+zollerngalaxy:radiumingot, Radium Ingot
+zollerngalaxy:hud, Galactic HUD
+zollerngalaxy:alienstone, Ancient Eden's Essence
+zollerngalaxy:compressedcobalt, Compressed Cobalt
+zollerngalaxy:compresseddiamond, Compressed Diamond
+zollerngalaxy:compressedemerald, Compressed Emerald
+zollerngalaxy:compressedevenium, Compressed Evenium
+zollerngalaxy:compressedgold, Compressed Gold
+zollerngalaxy:compressedheartium, Compressed Heartium
+zollerngalaxy:compressedkriffonium, Compressed Kriffonium
+zollerngalaxy:compressedvirinium, Compressed Virinium
+zollerngalaxy:compressedvyrex, Compressed Vyrexite
+zollerngalaxy:compressedpromethean, Compressed Promethean
+zollerngalaxy:compressedsuperchargedcoal, Compressed Super Charged Coal
+zollerngalaxy:compressedriven, Compressed Riven
+zollerngalaxy:compressedamaranth, Compressed Amaranth
+zollerngalaxy:compressedazurite, Compressed Azurite
+zollerngalaxy:compressedzollernium, Compressed Zollernium
+zollerngalaxy:compressedzucrite, Compressed Zucrite
+zollerngalaxy:compressedrhodium, Compressed Rhodium
+zollerngalaxy:compressedascendantamaranth, Compressed Ascendant Amaranth
+zollerngalaxy:alienbaconraw, Raw Alien Bacon
+zollerngalaxy:alienbaconcooked, Cooked Alien Bacon
+zollerngalaxy:alienbeefraw, Raw Alien Beef
+zollerngalaxy:alienbeefcooked, Cooked Alien Beef
+zollerngalaxy:fruitofeden, Fruit of Eden
+zollerngalaxy:perdberry, Lost Berry
+zollerngalaxy:perdpeach, Lost Peach
+zollerngalaxy:rawblubberfish, Raw Blubber Fish
+zollerngalaxy:cookedblubberfish, Cooked Blubber Fish
+zollerngalaxy:rawbladefish, Raw Blade Fish
+zollerngalaxy:cookedbladefish, Cooked Blade Fish
+zollerngalaxy:rawgypsyfish, Raw Gypsy Fish
+zollerngalaxy:cookedgypsyfish, Cooked Gypsy Fish
+zollerngalaxy:creamball, Cream Ball
+zollerngalaxy:rawchocolate, Raw Chocolate
+zollerngalaxy:chocolatebar, Chocolate Bar
+zollerngalaxy:brownie, Brownie
+zollerngalaxy:candyapple, Candy Apple
+zollerngalaxy:icecreamsandwich, Ice Cream Sandwich
+zollerngalaxy:icecream, Ice Cream
+zollerngalaxy:edendungeonkey, Eden's Treasure Key
+zollerngalaxy:shadekey, Shade Key
+zollerngalaxy:perdglowstonedust, Lost Glowdust
+zollerngalaxy:perddiamond, Lost Diamond
+zollerngalaxy:etrium, Raw Etrium
+zollerngalaxy:amber, Amber
+zollerngalaxy:topaz, Topaz
+zollerngalaxy:opal, Opal
+zollerngalaxy:aquamarine, Aquamarine
+zollerngalaxy:garnet, Garnet
+zollerngalaxy:ruby, Ruby
+zollerngalaxy:staticamber, Static Amber
+zollerngalaxy:icyaqua, Icy Aquamarine
+zollerngalaxy:firegarnet, Fiery Garnet
+zollerngalaxy:witherite, Witherite
+zollerngalaxy:netheridium, Netheridium
+zollerngalaxy:perdreed, Lost Bamboo Plant
+zollerngalaxy:shagreen, Shagreen
+zollerngalaxy:sharktooth, Shark Tooth
+zollerngalaxy:shadowbone, Shadow Bone
+zollerngalaxy:shadowessence, Dark Matter Essence
+zollerngalaxy:radium, Radium
+zollerngalaxy:superchargedcoal, Super Charged Coal
+zollerngalaxy:powerstick, Rod of Ascension
+zollerngalaxy:lapisstick, Lapis Stick
+zollerngalaxy:stargate_tier1, Stargate (Protocol One)
+zollerngalaxy:stargate_tier2, Stargate (Protocol Two)
+zollerngalaxy:stargate_tier3, Stargate (Protocol Three)
+zollerngalaxy:stargate_tier4, Stargate (Protocol Four)
+zollerngalaxy:stargate_tier5, Stargate (Protocol Five)
+zollerngalaxy:stargate_tier6, Stargate (Protocol Six)
+zollerngalaxy:stargate_tier7, Stargate (Protocol Seven)
+zollerngalaxy:stargate_tier8, Stargate (Protocol Eight)
+zollerngalaxy:stargate_tier9, Stargate (Protocol Nine)
+zollerngalaxy:stargate_tier10, Stargate (Protocol Ten)
+zollerngalaxy:stargate_tier918, Stargate (Birthday Protocol)
+zollerngalaxy:omnitool, Omnitool
+zollerngalaxy:bedrockbreaker, Bedrock Breaker
+zollerngalaxy:cobalt_pickaxe, Cobalt Pickaxe
+zollerngalaxy:evenium_pickaxe, Evenium Pickaxe
+zollerngalaxy:virinium_pickaxe, Virinium Pickaxe
+zollerngalaxy:amaranth_pickaxe, Amaranth Pickaxe
+zollerngalaxy:azurite_pickaxe, Azurite Pickaxe
+zollerngalaxy:zollernium_pickaxe, Zollernium Pickaxe
+zollerngalaxy:cobalt_shovel, Cobalt Shovel
+zollerngalaxy:evenium_shovel, Evenium Shovel
+zollerngalaxy:virinium_shovel, Virinium Shovel
+zollerngalaxy:amaranth_shovel, Amaranth Shovel
+zollerngalaxy:azurite_shovel, Azurite Shovel
+zollerngalaxy:zollernium_shovel, Zollernium Shovel
+zollerngalaxy:cobalt_axe, Cobalt Axe
+zollerngalaxy:evenium_axe, Evenium Axe
+zollerngalaxy:virinium_axe, Virinium Axe
+zollerngalaxy:amaranth_axe, Amaranth Axe
+zollerngalaxy:azurite_axe, Azurite Axe
+zollerngalaxy:zollernium_axe, Zollernium Axe
+zollerngalaxy:cobalt_hoe, Cobalt Hoe
+zollerngalaxy:evenium_hoe, Evenium Hoe
+zollerngalaxy:virinium_hoe, Virinium Hoe
+zollerngalaxy:amaranth_hoe, Amaranth Hoe
+zollerngalaxy:azurite_hoe, Azurite Hoe
+zollerngalaxy:zollernium_hoe, Zollernium Hoe
+zollerngalaxy:cobalt_sword, Cobalt Sword
+zollerngalaxy:evenium_sword, Evenium Sword
+zollerngalaxy:virinium_sword, Virinium Sword
+zollerngalaxy:amaranth_sword, Amaranth Sword
+zollerngalaxy:azurite_sword, Azurite Sword
+zollerngalaxy:zollernium_sword, Zollernium Sword
+zollerngalaxy:wither_sword, Mortem
+zollerngalaxy:fire_sword, Diablo
+zollerngalaxy:thor_sword, Thor
+zollerngalaxy:ender_sword, Ender
+zollerngalaxy:ice_sword, Glacies
+zollerngalaxy:light_sword, Archangel
+zollerngalaxy:copper_tunneler, Copper Cave Tunneler
+zollerngalaxy:gold_tunneler, Gold Cave Tunneler
+zollerngalaxy:amaranth_tunneler, Amaranth Tunneler
+zollerngalaxy:amaranthhelmet, Amaranth Helmet
+zollerngalaxy:zollerniumhelmet, Zollernium Helmet
+zollerngalaxy:azuritehelmet, Azurite Helmet
+zollerngalaxy:radiumhelmet, Radium Helmet
+zollerngalaxy:amaranthchestplate, Amaranth Chestplate
+zollerngalaxy:zollerniumchestplate, Zollernium Chestplate
+zollerngalaxy:azuritechestplate, Azurite Chestplate
+zollerngalaxy:radiumchestplate, Radium Chestplate
+zollerngalaxy:amaranthleggings, Amaranth Leggings
+zollerngalaxy:zollerniumleggings, Zollernium Leggings
+zollerngalaxy:azuriteleggings, Azurite Leggings
+zollerngalaxy:radiumleggings, Radium Leggings
+zollerngalaxy:amaranthboots, Amaranth Boots
+zollerngalaxy:zollerniumboots, Zollernium Boots
+zollerngalaxy:azuriteboots, Azurite Boots
+zollerngalaxy:radiumboots, Radium Boots
+zollerngalaxy:blueprint_corruption, Corruption Protection
+zollerngalaxy:blueprint_scorch, Scorch Protection
+zollerngalaxy:blueprint_freeze, Freeze Protection
+zollerngalaxy:heart, Healing Heart
+zollerngalaxy:heartforce, Max Heartforce
+zollerngalaxy:storm_amulet, Storm Amulet
+zollerngalaxy:oxygentank_tier4, Oxygen Tank (Tier 4)
+zollerngalaxy:oxygentank_tier5, Oxygen Tank (Tier 5)
+zollerngalaxy:oxygentank_tier6, Oxygen Tank (Tier 6)
+zollerngalaxy:lovetreesapling, Lovetree Sapling
+zollerngalaxy:goldenwoodsapling, Goldenwood Sapling
+zollerngalaxy:paradisewoodsapling, Paradise Tree Sapling
+zollerngalaxy:edentreesapling, Edenwood Sapling
+zollerngalaxy:edenfruit, Eden's Indigo Fruit
+zollerngalaxy:edenflower, Eden's Flower
+zollerngalaxy:edenflower_black, Eden's Black Flower
+zollerngalaxy:edenflower_blue, Eden's Blue Flower
+zollerngalaxy:edenflower_cyan, Eden's Cyan Flower
+zollerngalaxy:edenflower_green, Eden's Green Flower
+zollerngalaxy:edenflower_orange, Eden's Orange Flower
+zollerngalaxy:edenflower_pink, Eden's Pink Flower
+zollerngalaxy:edenflower_purple, Eden's Purple Flower
+zollerngalaxy:edenflower_red, Eden's Red Flower
+zollerngalaxy:edenflower_yellow, Eden's Yellow Flower
+zollerngalaxy:edenflower_white, Eden's White Flower
+zollerngalaxy:oasisflower, Oasis Flower
+zollerngalaxy:aster, Galaxy Aster
+zollerngalaxy:zolstone, Zolstone
+zollerngalaxy:zolcobblerock, Zolrock Cobblestone
+zollerngalaxy:zolsurfacerock, Zolrock
+zollerngalaxy:zoldirt, Zollus Dirt
+zollerngalaxy:zolrockbricks, Zollus Rock Bricks
+zollerngalaxy:zolcoalore, Zollus Coal Ore
+zollerngalaxy:zolcopperore, Zollus Copper Ore
+zollerngalaxy:zolgoldore, Zollus Gold Ore
+zollerngalaxy:zolheartore, Zollus Heartium Ore
+zollerngalaxy:zoltinore, Zollus Tin Ore
+zollerngalaxy:zolironore, Zollus Iron Ore
+zollerngalaxy:zolcrystals, Zolnium Crystals
+zollerngalaxy:kriffrock, Kriffrock
+zollerngalaxy:kriffstone, Kriffstone
+zollerngalaxy:kriffcobblerock, Kriffon Cobblerock
+zollerngalaxy:kriffdirt, Kriffon Dirt
+zollerngalaxy:kriffrockbricks, Kriffon Rock Bricks
+zollerngalaxy:magmarock, Magrock
+zollerngalaxy:blazerock, Blazerock
+zollerngalaxy:kriffcoalore, Kriffon Coal Ore
+zollerngalaxy:kriffcopperore, Kriffon Copper Ore
+zollerngalaxy:kriffironore, Kriffon Iron Ore
+zollerngalaxy:kriffgoldore, Kriffon Gold Ore
+zollerngalaxy:kriffredstoneore, Kriffon Redstone Ore
+zollerngalaxy:kriffcobaltore, Kriffon Cobalt Ore
+zollerngalaxy:purgcobblerock, Purgot Cobblerock
+zollerngalaxy:purgstone, Purgot Stone
+zollerngalaxy:purgrockbricks, Purgot Rock Bricks
+zollerngalaxy:whiterock, Whiterock
+zollerngalaxy:blackrock, Blackrock
+zollerngalaxy:purgrock, Purgot Rock
+zollerngalaxy:purgdirt, Purgot Dirt
+zollerngalaxy:purggravel, Purgot Gravel
+zollerngalaxy:purgmeteoricironore, Purgot Meteoric Iron Ore
+zollerngalaxy:purgcobaltore, Purgot Cobalt Ore
+zollerngalaxy:purgironore, Purgot Iron Ore
+zollerngalaxy:purggoldore, Purgot Gold Ore
+zollerngalaxy:purgcopperore, Purgot Copper Ore
+zollerngalaxy:purgdiamondore, Purgot Diamond Ore
+zollerngalaxy:purgemeraldore, Purgot Emerald Ore
+zollerngalaxy:purgeveniumore, Purgot Evenium Ore
+zollerngalaxy:purgaluminumore, Purgot Aluminum Ore
+zollerngalaxy:purgtinore, Purgot Tin Ore
+zollerngalaxy:purgleadore, Purgot Lead Ore
+zollerngalaxy:purgredstoneore, Purgot Redstone Ore
+zollerngalaxy:edensurfacerock, Eden's Greenrock
+zollerngalaxy:edentallgrass, Eden's Tall Grass
+zollerngalaxy:edengrass, Eden's Grass
+zollerngalaxy:edensoil, Eden's Soil
+zollerngalaxy:edenrock, Edenrock Stone
+zollerngalaxy:edensacredstone, Eden's Sacred Stone
+zollerngalaxy:edencobblerock, Edenrock Cobblestone
+zollerngalaxy:edenrockbricks, Edenrock Bricks
+zollerngalaxy:edengoldengrass, Eden's Golden Grass
+zollerngalaxy:edengrass_autumn, Eden's Paradise Grass
+zollerngalaxy:edenswampgrass, Eden's Swamp Grass
+zollerngalaxy:edengrass_snow, Eden's Snowy Grass
+zollerngalaxy:edenwinterrock, Eden's Snowrock
+zollerngalaxy:bloodsand, Eden's Blood Sand
+zollerngalaxy:bloodstone, Eden's Bloodstone
+zollerngalaxy:bonestone, Eden's Bone Stone
+zollerngalaxy:edengravel, Eden's Gravel
+zollerngalaxy:brightstone, Eden's Britestone
+zollerngalaxy:edenwoodlog, Edenwood Log
+zollerngalaxy:edenwoodleaves, Edenwood Leaves
+zollerngalaxy:edenwoodplanks, Edenwood Planks
+zollerngalaxy:paradisewoodlog, Paradise Tree Log
+zollerngalaxy:paradisewoodleaves, Paradise Tree Leaves
+zollerngalaxy:paradisewoodplanks, Paradise Tree Planks
+zollerngalaxy:goldenwoodlog, Goldenwood Log
+zollerngalaxy:goldenwoodleaves, Goldenwood Leaves
+zollerngalaxy:goldenwoodplanks, Goldenwood Planks
+zollerngalaxy:lovetreelog, Lovetree Log
+zollerngalaxy:lovetreeleaves, Lovetree Leaves
+zollerngalaxy:lovetreeplanks, Lovetree Planks
+zollerngalaxy:edendungeonbricks, Eden's Sacred Bricks
+zollerngalaxy:edenaluminumore, Eden's Aluminum Ore
+zollerngalaxy:edensteelore, Eden's Steel Ore
+zollerngalaxy:edenbronzeore, Eden's Bronze Ore
+zollerngalaxy:edeninvarore, Eden's Invar Ore
+zollerngalaxy:edenelectrumore, Eden's Electrum Ore
+zollerngalaxy:edenplatinumore, Eden's Platinum Ore
+zollerngalaxy:edencoalore, Eden's Coal Ore
+zollerngalaxy:edencopperore, Eden's Copper Ore
+zollerngalaxy:edendeshore, Eden's Desh Ore
+zollerngalaxy:edendiamondore, Eden's Diamond Ore
+zollerngalaxy:edenemeraldore, Eden's Emerald Ore
+zollerngalaxy:edengoldore, Eden's Gold Ore
+zollerngalaxy:edensilverore, Eden's Silver Ore
+zollerngalaxy:edenironore, Eden's Iron Ore
+zollerngalaxy:edenlapisore, Eden's Lapis Ore
+zollerngalaxy:edenmeteoricironore, Eden's Meteoric Iron Ore
+zollerngalaxy:edenredstoneore, Eden's Redstone Ore
+zollerngalaxy:edentinore, Eden's Tin Ore
+zollerngalaxy:edenleadore, Eden's Lead Ore
+zollerngalaxy:edennickleore, Eden's Nickel Ore
+zollerngalaxy:edenviriore, Eden's Virinium Ore
+zollerngalaxy:edencobaltore, Eden's Cobalt Ore
+zollerngalaxy:edeneveniumore, Eden's Evenium Ore
+zollerngalaxy:edenheartiumore, Eden's Heartium Ore
+zollerngalaxy:xathrock, Xathian Rock
+zollerngalaxy:xathcobblerock, Xathian Cobblerock
+zollerngalaxy:xathstone, Xathian Stone
+zollerngalaxy:xathrockbricks, Xathian Rock Bricks
+zollerngalaxy:xathgrass, Xathian Grass
+zollerngalaxy:xathdirt, Xathian Dirt
+zollerngalaxy:xathgravel, Xathian Gravel
+zollerngalaxy:xathtallgrass, Xathian Tall Grass
+zollerngalaxy:xathprometheanore, Xathian Promethean Ore
+zollerngalaxy:xathemeraldore, Xathian Emerald Ore
+zollerngalaxy:xathdiamondore, Xathian Diamond Ore
+zollerngalaxy:xathredstoneore, Xathian Redstone Ore
+zollerngalaxy:xathironore, Xathian Iron Ore
+zollerngalaxy:xathgoldore, Xathian Gold Ore
+zollerngalaxy:xathtinore, Xathian Tin Ore
+zollerngalaxy:xathazuriteore, Xathian Azurite Ore
+zollerngalaxy:oasisrock, Oasis Rock
+zollerngalaxy:oasisstone, Oasis Stone
+zollerngalaxy:oasisrockbricks, Oasis Rock Bricks
+zollerngalaxy:oasiscobblerock, Oasis Cobblerock
+zollerngalaxy:oasisdirt, Oasis Dirt
+zollerngalaxy:oasistallgrass, Oasis Tall Grass
+zollerngalaxy:oasisgrass, Oasis Grass
+zollerngalaxy:oasisgravel, Oasis Gravel
+zollerngalaxy:oasissuperchargedcoalore, Oasis Super Charged Coal Ore
+zollerngalaxy:oasiscoalore, Oasis Coal Ore
+zollerngalaxy:oasisironore, Oasis Iron Ore
+zollerngalaxy:oasisgoldore, Oasis Gold Ore
+zollerngalaxy:oasisredstoneore, Oasis Redstone Ore
+zollerngalaxy:oasisdiamondore, Oasis Diamond Ore
+zollerngalaxy:oasistinore, Oasis Tin Ore
+zollerngalaxy:oasisleadore, Oasis Lead Ore
+zollerngalaxy:xantheonrock, Xantheon Surface Rock
+zollerngalaxy:xantheonchrome, Xantheon Chrome
+zollerngalaxy:xantheonstone, Xantheon Stone
+zollerngalaxy:xantheoncoalore, Xantheon Coal Ore
+zollerngalaxy:xantheonironore, Xantheon Iron Ore
+zollerngalaxy:xantheoncopperore, Xantheon Copper Ore
+zollerngalaxy:xantheonnickelore, Xantheon Nickel Ore
+zollerngalaxy:xantheonplutoniumore, Xantheon Plutonium Ore
+zollerngalaxy:xantheonfueltoniumore, Xantheon Fueltonium Ore
+zollerngalaxy:xantheonamaranthore, Xantheon Amaranth Ore
+zollerngalaxy:constructblock, Constructed Block
+zollerngalaxy:atheonrock, Atheon Goldrock
+zollerngalaxy:atheonluxrock, Atheon Luxrock
+zollerngalaxy:atheonstone, Atheon Stone
+zollerngalaxy:atheoncobble, Atheon Cobblestone
+zollerngalaxy:atheonrockbricks, Atheon Rock Bricks
+zollerngalaxy:atheonamaranthore, Atheon Amaranth Ore
+zollerngalaxy:atheonredstoneore, Atheon Redstone Ore
+zollerngalaxy:atheontinore, Atheon Tin Ore
+zollerngalaxy:atheondiamondore, Atheon Diamond Ore
+zollerngalaxy:atheonzollerniumore, Atheon Zollernium Ore
+zollerngalaxy:atheonzincore, Atheon Zinc Ore
+zollerngalaxy:goldenconstructblock, Golden Constructed Block
+zollerngalaxy:viriblock, Block of Virinium
+zollerngalaxy:cobaltblock, Block of Cobalt
+zollerngalaxy:eveniumblock, Block of Evenium
+zollerngalaxy:prometheanblock, Block of Promethean
+zollerngalaxy:crater_rock, Crater Rock
+zollerngalaxy:redshroomblock, Redshroom
+zollerngalaxy:redshroomstem, Redshroom Stem
+zollerngalaxy:superchargedcoalblock, Block of Super Charged Coal
+zollerngalaxy:plutoniumblock, Block of Plutonium
+zollerngalaxy:fueltoniumblock, Block of Fueltonium
+zollerngalaxy:chargiumblock, Block of Conductive Chargium
+zollerngalaxy:shiniumblock, Block of Shinium
+zollerngalaxy:amaranthblock, Block of Amaranth
+zollerngalaxy:azuriteblock, Block of Azurite
+zollerngalaxy:zollerniumblock, Block of Zollernium
+zollerngalaxy:zincblock, Block of Zinc
+zollerngalaxy:perddiamondblock, Block of Lost Diamond
+zollerngalaxy:perdetriumblock, Block of Etrium
+zollerngalaxy:zucriteblock, Block of Zucrite
+zollerngalaxy:rhodiumblock, Block of Rhodium
+zollerngalaxy:amberblock, Block of Amber
+zollerngalaxy:topazblock, Block of Topaz
+zollerngalaxy:opalblock, Block of Opal
+zollerngalaxy:aquamarineblock, Block of Aquamarine
+zollerngalaxy:garnetblock, Block of Garnet
+zollerngalaxy:rubyblock, Block of Ruby
+zollerngalaxy:staticamberblock, Block of Static Amber
+zollerngalaxy:icyaquablock, Block of Icy Aquamarine
+zollerngalaxy:firegarnetblock, Block of Fiery Garnet
+zollerngalaxy:witheriteblock, Block of Witherite
+zollerngalaxy:radiumblock, Block of Radium
+zollerngalaxy:netheridiumblock, Block of Netheridium
+zollerngalaxy:netherizedobsidian, Netherized Obsidian
+zollerngalaxy:redobsidian, Blood Obsidian
+zollerngalaxy:shadowboneblock, Block of Shadow Bone
+zollerngalaxy:shinestone, Shinestone
+zollerngalaxy:shinestonecrystal, Shinestone Crystal
+zollerngalaxy:polishedshinestone, Polished Shinestone
+zollerngalaxy:shinestonecrystalbricks, Shinestone Crystal Bricks
+zollerngalaxy:compressedheartiumblock, Block of Compressed Heartium
+zollerngalaxy:compressedviriniumblock, Block of Compressed Virinium
+zollerngalaxy:compressedeveniumblock, Block of Compressed Evenium
+zollerngalaxy:compressedcobaltblock, Block of Compressed Cobalt
+zollerngalaxy:compressedprometheanblock, Block of Compressed Promethean
+zollerngalaxy:compressedsuperchargedcoalblock, Block of Compressed Super Charged Coal
+zollerngalaxy:compressedzucriteblock, Block of Compressed Zucrite
+zollerngalaxy:compressedrhodiumblock, Block of Compressed Rhodium
+zollerngalaxy:candycube_white, White Candy Cube
+zollerngalaxy:candycube_black, Black Candy Cube
+zollerngalaxy:candycube_gray, Gray Candy Cube
+zollerngalaxy:candycube_orange, Orange Candy Cube
+zollerngalaxy:candycube_brown, Brown Candy Cube
+zollerngalaxy:candycube_red, Red Candy Cube
+zollerngalaxy:candycube_blue, Blue Candy Cube
+zollerngalaxy:candycube_yellow, Yellow Candy Cube
+zollerngalaxy:candycube_purple, Purple Candy Cube
+zollerngalaxy:candycube_cyan, Cyan Candy Cube
+zollerngalaxy:candycube_pink, Pink Candy Cube
+zollerngalaxy:candycube_green, Green Candy Cube
+zollerngalaxy:chocolateblock, Chocolate Block
+zollerngalaxy:chocolatebricks, Chocolate Bricks
+zollerngalaxy:cookieblock, Cookie Block
+zollerngalaxy:brownieblock, Brownie Block
+zollerngalaxy:icecreamsandwichblock, Ice Cream Sandwich Block
+zollerngalaxy:sugarcube, Sugar Cube
+zollerngalaxy:spacestationblock, Space Station Block
+zollerngalaxy:outpostblock, Outpost Block
+zollerngalaxy:loreblock, Lore Block
+zollerngalaxy:perdsand, Lost Sand
+zollerngalaxy:perdrock, Lost Rock
+zollerngalaxy:perdstone, Lost Stone
+zollerngalaxy:perdcobble, Lost Cobblestone
+zollerngalaxy:perdrockbricks, Lost Rock Bricks
+zollerngalaxy:perdgravel, Lost Gravel
+zollerngalaxy:perdcreepdirt, Lost Creepdirt
+zollerngalaxy:perdsoil, Lost Soil
+zollerngalaxy:perddirt, Lost Dirt
+zollerngalaxy:perdtallgrass, Lost Tall Grass
+zollerngalaxy:perdgrass, Lost Grass
+zollerngalaxy:perdcreepstone, Lost Creepstone
+zollerngalaxy:perdglowstone, Lost Glowstone
+zollerngalaxy:perdcavestone, Lost Cavestone
+zollerngalaxy:perdcavestonebricks, Lost Cavestone Bricks
+zollerngalaxy:perdcactus, Lost Cactus
+zollerngalaxy:perdreeds, Lost Bamboo
+zollerngalaxy:perddeadbush, Lost Dead Bush
+zollerngalaxy:perddiamondore, Lost Diamond Ore
+zollerngalaxy:perdetriumore, Lost Etrium Ore
+zollerngalaxy:perdironore, Lost Iron Ore
+zollerngalaxy:perdgoldore, Lost Gold Ore
+zollerngalaxy:perdzollerniumore, Lost Zollernium Ore
+zollerngalaxy:perdfueltoniumore, Lost Fueltonium Ore
+zollerngalaxy:palmtreesapling, Lost Palmwood Sapling
+zollerngalaxy:palmwoodlog, Lost Palmwood Log
+zollerngalaxy:palmwoodleaves, Lost Palmwood Leaves
+zollerngalaxy:palmwoodplanks, Lost Palmwood Planks
+zollerngalaxy:altumrock, Altum Rock
+zollerngalaxy:altumsand, Altum Sand
+zollerngalaxy:altumdirt, Altum Dirt
+zollerngalaxy:altumcobble, Altum Cobblestone
+zollerngalaxy:altumstone, Altum Stone
+zollerngalaxy:altumgravel, Altum Gravel
+zollerngalaxy:seaweed, Seaweed
+zollerngalaxy:altumcoalore, Altum Coal Ore
+zollerngalaxy:altumironore, Altum Iron Ore
+zollerngalaxy:altumgoldore, Altum Gold Ore
+zollerngalaxy:altumredstoneore, Altum Redstone Ore
+zollerngalaxy:altumdiamondore, Altum Diamond Ore
+zollerngalaxy:altumzollerniumore, Altum Zollernium Ore
+zollerngalaxy:altumeveniumore, Altum Evenium Ore
+zollerngalaxy:altumrhodiumore, Altum Rhodium Ore
+zollerngalaxy:altumamaranthore, Altum Amaranth Ore
+zollerngalaxy:caligrosurfacerock, Caligro Surface Rock
+zollerngalaxy:caligrorock, Caligro Rock
+zollerngalaxy:caligrocobblestone, Caligro Cobblestone
+zollerngalaxy:caligrocobblemossy, Caligro Mossy Cobblestone
+zollerngalaxy:caligrostone, Caligro Stone
+zollerngalaxy:caligrostonebricks, Caligro Stone Bricks
+zollerngalaxy:caligrogravel, Caligro Gravel
+zollerngalaxy:caligrodirt, Caligro Dirt
+zollerngalaxy:witherrack, Witherrack
+zollerngalaxy:creepstone, Caligro Creepstone
+zollerngalaxy:creepdirt, Caligro Creepdirt
+zollerngalaxy:witheriteore, Witherite Ore
+zollerngalaxy:caligroshiniumore, Caligro Shinium Ore
+zollerngalaxy:caligrosilverore, Caligro Silver Ore
+zollerngalaxy:caligronickelore, Caligro Nickel Ore
+zollerngalaxy:caligroleadore, Caligro Lead Ore
+zollerngalaxy:caligrotinore, Caligro Tin Ore
+zollerngalaxy:caligrocopperore, Caligro Copper Ore
+zollerngalaxy:caligroironore, Caligro Iron Ore
+zollerngalaxy:caligrogoldore, Caligro Gold Ore
+zollerngalaxy:caligroredstoneore, Caligro Redstone Ore
+zollerngalaxy:caligroamaranthore, Caligro Amaranth Ore
+zollerngalaxy:caligrozincore, Caligro Zinc Ore
+zollerngalaxy:caligroamberore, Caligro Amber Ore
+zollerngalaxy:caligrotopazore, Caligro Topaz Ore
+zollerngalaxy:caligroopalore, Caligro Opal Ore
+zollerngalaxy:caligroaquaore, Caligro Aquamarine Ore
+zollerngalaxy:caligrogarnetore, Caligro Garnet Ore
+zollerngalaxy:caligrosuperchargedcoalore, Caligro Super Charged Coal Ore
+zollerngalaxy:caligrofueltoniumore, Caligro Fueltonium Ore
+zollerngalaxy:caligrodiamondore, Caligro Diamond Ore
+zollerngalaxy:caligroemeraldore, Caligro Emerald Ore
+zollerngalaxy:caligroradiumore, Caligro Radium Ore
+zollerngalaxy:caligrolapisore, Caligro Lapis Lazuli Ore
+zollerngalaxy:caligrozollerniumore, Caligro Zollernium Ore
+zollerngalaxy:caligrorubyore, Caligro Ruby Ore
+zollerngalaxy:spider_egg, Spiderling Egg
+zollerngalaxy:shadowspawner, Shadow Spawner
+zollerngalaxy:corruptrock, Corrupted Rock
+zollerngalaxy:corruptcobble, Corrupted Cobblestone
+zollerngalaxy:corruptstone, Corrupted Stone
+zollerngalaxy:corruptstonebricks, Corrupted Stone Bricks
+zollerngalaxy:corruptascendiumore, Corrupted Ascendium Ore
+zollerngalaxy:corruptetriumore, Corrupted Etrium Ore
+zollerngalaxy:corruptchargiumore, Corrupted Chargium Ore
+zollerngalaxy:corruptcreepstone, Corrupted Creepstone
+zollerngalaxy:exodustallgrass, Exodus Tall Grass
+zollerngalaxy:exodusdirt, Exodus Dirt
+zollerngalaxy:exodusgrass, Exodus Grass
+zollerngalaxy:exoduscobblestone, Exodus Cobblestone
+zollerngalaxy:exodusstone, Exodus Stone
+zollerngalaxy:exodusgravel, Exodus Gravel
+zollerngalaxy:exodusrock, Exodus Rock
+zollerngalaxy:exosand, Exo Sand
+zollerngalaxy:exodusironore, Exodus Iron Ore
+zollerngalaxy:exodusgoldore, Exodus Gold Ore
+zollerngalaxy:exodusdiamondore, Exodus Diamond Ore
+zollerngalaxy:exodusredstoneore, Exodus Redstone Ore
+zollerngalaxy:exoduscopperore, Exodus Copper Ore
+zollerngalaxy:exoduswoodlog, Exo Log
+zollerngalaxy:exoduswoodleaves, Exo Leaves
+zollerngalaxy:exoduswoodplanks, Exo Planks
+zollerngalaxy:exoduswoodsapling, Exo Sapling
+zollerngalaxy:vortexsurfacerock, Vortex Surface Rock
+zollerngalaxy:vortexcobblestone, Vortex Cobblestone
+zollerngalaxy:vortexstone, Vortex Stone
+zollerngalaxy:vortexvoltrock, Volt Rock
+zollerngalaxy:vortexironore, Vortex Iron Ore
+zollerngalaxy:vortexgoldore, Vortex Gold Ore
+zollerngalaxy:vortexdiamondore, Vortex Diamond Ore
+zollerngalaxy:vortexredstoneore, Vortex Redstone Ore
+zollerngalaxy:vortexcopperore, Vortex Copper Ore
+zollerngalaxy:vortexsuperchargedcoalore, Vortex Super Charged Coal Ore
+zollerngalaxy:vortexfueltoniumore, Vortex Fueltonium Ore
+zollerngalaxy:vortexeveniumore, Vortex Evenium Ore
+zollerngalaxy:blueprintblock, Blueprint Repair Station
+zollerngalaxy:heartblock, Healing Station
+zollerngalaxy:plutoniumcrystals, Plutonium Crystals
+zollerngalaxy:stormcrystals, Storm Crystals
+zollerngalaxy:ingotstack_iron, Iron Ingot Stack
+zollerngalaxy:ironsiren_on, Iron Siren
+zollerngalaxy:goldsiren_on, Gold Siren
+zollerngalaxy:diamondsiren_on, Diamond Siren
+zollerngalaxy:emeraldsiren_on, Emerald Siren
+zollerngalaxy:ironsiren, Iron Siren
+zollerngalaxy:goldsiren, Gold Siren
+zollerngalaxy:diamondsiren, Diamond Siren
+zollerngalaxy:emeraldsiren, Emerald Siren
 ic2c_extras:orewashingplant, Ore Washing Plant
 ic2c_extras:thermalcentrifuge, Thermal Centrifuge
 ic2c_extras:thermalwasher, Thermal Washer
@@ -6359,6 +6917,7 @@ securitycraft:reinforced_wooden_button, Reinforced Button
 securitycraft:reinforced_lever, Reinforced Lever
 securitycraft:reinforced_hopper, Reinforced Hopper
 securitycraft:projector, Projector
+securitycraft:reinforced_cauldron, Reinforced Cauldron
 securitycraft:stone_mine, Stone Mine
 securitycraft:dirt_mine, Dirt Mine
 securitycraft:cobblestone_mine, Cobblestone Mine
@@ -6389,12 +6948,13 @@ securitycraft:bucket_f_water, Fake Water Bucket
 securitycraft:bucket_f_lava, Fake Lava Bucket
 securitycraft:universal_block_modifier, Universal Block Modifier
 securitycraft:redstone_module, Redstone Module
-securitycraft:whitelist_module, Whitelist Module
-securitycraft:blacklist_module, Blacklist Module
+securitycraft:whitelist_module, Allowlist Module
+securitycraft:blacklist_module, Denylist Module
 securitycraft:harming_module, Harming Module
 securitycraft:smart_module, Smart Module
 securitycraft:storage_module, Storage Module
 securitycraft:disguise_module, Disguise Module
+securitycraft:speed_module, Speed Module
 securitycraft:wire_cutters, Wire Cutters
 securitycraft:admin_tool, Admin Tool
 securitycraft:keypad_item, Key Panel
@@ -6411,6 +6971,7 @@ securitycraft:taser_powered, Taser
 securitycraft:secret_sign_item, Secret Sign
 securitycraft:sentry, Sentry
 securitycraft:crystal_quartz_item, Crystal Quartz
+securitycraft:keypad_door_item, Keypad Door
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:quartz_block, Certus Quartz Block
@@ -6825,6 +7386,345 @@ appliedenergistics2:facade:0, Cable Facade - Pixel Foam
 appliedenergistics2:facade:0, Cable Facade - 
 appliedenergistics2:facade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:facade:0, Cable Facade - End Stone
+appliedenergistics2:facade:0, Cable Facade - Zolstone
+appliedenergistics2:facade:0, Cable Facade - Zolrock Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Zolrock
+appliedenergistics2:facade:0, Cable Facade - Zollus Dirt
+appliedenergistics2:facade:0, Cable Facade - Zollus Rock Bricks
+appliedenergistics2:facade:0, Cable Facade - Zollus Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Zollus Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Zollus Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Zollus Heartium Ore
+appliedenergistics2:facade:0, Cable Facade - Zollus Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Zollus Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Kriffrock
+appliedenergistics2:facade:0, Cable Facade - Kriffstone
+appliedenergistics2:facade:0, Cable Facade - Kriffon Cobblerock
+appliedenergistics2:facade:0, Cable Facade - Kriffon Dirt
+appliedenergistics2:facade:0, Cable Facade - Kriffon Rock Bricks
+appliedenergistics2:facade:0, Cable Facade - Magrock
+appliedenergistics2:facade:0, Cable Facade - Blazerock
+appliedenergistics2:facade:0, Cable Facade - Kriffon Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Kriffon Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Kriffon Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Kriffon Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Kriffon Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Kriffon Cobalt Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Cobblerock
+appliedenergistics2:facade:0, Cable Facade - Purgot Stone
+appliedenergistics2:facade:0, Cable Facade - Purgot Rock Bricks
+appliedenergistics2:facade:0, Cable Facade - Whiterock
+appliedenergistics2:facade:0, Cable Facade - Blackrock
+appliedenergistics2:facade:0, Cable Facade - Purgot Rock
+appliedenergistics2:facade:0, Cable Facade - Purgot Dirt
+appliedenergistics2:facade:0, Cable Facade - Purgot Gravel
+appliedenergistics2:facade:0, Cable Facade - Purgot Meteoric Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Cobalt Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Evenium Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Purgot Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Greenrock
+appliedenergistics2:facade:0, Cable Facade - Eden's Grass
+appliedenergistics2:facade:0, Cable Facade - Eden's Soil
+appliedenergistics2:facade:0, Cable Facade - Edenrock Stone
+appliedenergistics2:facade:0, Cable Facade - Eden's Sacred Stone
+appliedenergistics2:facade:0, Cable Facade - Edenrock Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Edenrock Bricks
+appliedenergistics2:facade:0, Cable Facade - Eden's Golden Grass
+appliedenergistics2:facade:0, Cable Facade - Eden's Paradise Grass
+appliedenergistics2:facade:0, Cable Facade - Eden's Swamp Grass
+appliedenergistics2:facade:0, Cable Facade - Eden's Snowy Grass
+appliedenergistics2:facade:0, Cable Facade - Eden's Snowrock
+appliedenergistics2:facade:0, Cable Facade - Eden's Blood Sand
+appliedenergistics2:facade:0, Cable Facade - Eden's Bloodstone
+appliedenergistics2:facade:0, Cable Facade - Eden's Bone Stone
+appliedenergistics2:facade:0, Cable Facade - Eden's Gravel
+appliedenergistics2:facade:0, Cable Facade - Eden's Britestone
+appliedenergistics2:facade:0, Cable Facade - Edenwood Log
+appliedenergistics2:facade:0, Cable Facade - Edenwood Leaves
+appliedenergistics2:facade:0, Cable Facade - Edenwood Planks
+appliedenergistics2:facade:0, Cable Facade - Paradise Tree Log
+appliedenergistics2:facade:0, Cable Facade - Paradise Tree Leaves
+appliedenergistics2:facade:0, Cable Facade - Paradise Tree Planks
+appliedenergistics2:facade:0, Cable Facade - Goldenwood Log
+appliedenergistics2:facade:0, Cable Facade - Goldenwood Leaves
+appliedenergistics2:facade:0, Cable Facade - Goldenwood Planks
+appliedenergistics2:facade:0, Cable Facade - Lovetree Log
+appliedenergistics2:facade:0, Cable Facade - Lovetree Leaves
+appliedenergistics2:facade:0, Cable Facade - Lovetree Planks
+appliedenergistics2:facade:0, Cable Facade - Eden's Sacred Bricks
+appliedenergistics2:facade:0, Cable Facade - Eden's Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Steel Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Bronze Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Invar Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Electrum Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Platinum Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Desh Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Lapis Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Meteoric Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Virinium Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Cobalt Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Evenium Ore
+appliedenergistics2:facade:0, Cable Facade - Eden's Heartium Ore
+appliedenergistics2:facade:0, Cable Facade - Xathian Rock
+appliedenergistics2:facade:0, Cable Facade - Xathian Cobblerock
+appliedenergistics2:facade:0, Cable Facade - Xathian Stone
+appliedenergistics2:facade:0, Cable Facade - Xathian Rock Bricks
+appliedenergistics2:facade:0, Cable Facade - Xathian Grass
+appliedenergistics2:facade:0, Cable Facade - Xathian Dirt
+appliedenergistics2:facade:0, Cable Facade - Xathian Gravel
+appliedenergistics2:facade:0, Cable Facade - Xathian Promethean Ore
+appliedenergistics2:facade:0, Cable Facade - Xathian Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Xathian Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Xathian Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Xathian Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Xathian Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Xathian Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Xathian Azurite Ore
+appliedenergistics2:facade:0, Cable Facade - Oasis Rock
+appliedenergistics2:facade:0, Cable Facade - Oasis Stone
+appliedenergistics2:facade:0, Cable Facade - Oasis Rock Bricks
+appliedenergistics2:facade:0, Cable Facade - Oasis Cobblerock
+appliedenergistics2:facade:0, Cable Facade - Oasis Dirt
+appliedenergistics2:facade:0, Cable Facade - Oasis Grass
+appliedenergistics2:facade:0, Cable Facade - Oasis Gravel
+appliedenergistics2:facade:0, Cable Facade - Oasis Super Charged Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Oasis Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Oasis Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Oasis Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Oasis Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Oasis Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Oasis Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Oasis Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Xantheon Surface Rock
+appliedenergistics2:facade:0, Cable Facade - Xantheon Chrome
+appliedenergistics2:facade:0, Cable Facade - Xantheon Stone
+appliedenergistics2:facade:0, Cable Facade - Xantheon Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Xantheon Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Xantheon Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Xantheon Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Xantheon Plutonium Ore
+appliedenergistics2:facade:0, Cable Facade - Xantheon Fueltonium Ore
+appliedenergistics2:facade:0, Cable Facade - Xantheon Amaranth Ore
+appliedenergistics2:facade:0, Cable Facade - Constructed Block
+appliedenergistics2:facade:0, Cable Facade - Atheon Goldrock
+appliedenergistics2:facade:0, Cable Facade - Atheon Luxrock
+appliedenergistics2:facade:0, Cable Facade - Atheon Stone
+appliedenergistics2:facade:0, Cable Facade - Atheon Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Atheon Rock Bricks
+appliedenergistics2:facade:0, Cable Facade - Atheon Amaranth Ore
+appliedenergistics2:facade:0, Cable Facade - Atheon Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Atheon Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Atheon Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Atheon Zollernium Ore
+appliedenergistics2:facade:0, Cable Facade - Atheon Zinc Ore
+appliedenergistics2:facade:0, Cable Facade - Golden Constructed Block
+appliedenergistics2:facade:0, Cable Facade - Block of Virinium
+appliedenergistics2:facade:0, Cable Facade - Block of Cobalt
+appliedenergistics2:facade:0, Cable Facade - Block of Evenium
+appliedenergistics2:facade:0, Cable Facade - Block of Promethean
+appliedenergistics2:facade:0, Cable Facade - Crater Rock
+appliedenergistics2:facade:0, Cable Facade - Redshroom
+appliedenergistics2:facade:0, Cable Facade - Redshroom Stem
+appliedenergistics2:facade:0, Cable Facade - Block of Super Charged Coal
+appliedenergistics2:facade:0, Cable Facade - Block of Plutonium
+appliedenergistics2:facade:0, Cable Facade - Block of Fueltonium
+appliedenergistics2:facade:0, Cable Facade - Block of Conductive Chargium
+appliedenergistics2:facade:0, Cable Facade - Block of Shinium
+appliedenergistics2:facade:0, Cable Facade - Block of Amaranth
+appliedenergistics2:facade:0, Cable Facade - Block of Azurite
+appliedenergistics2:facade:0, Cable Facade - Block of Zollernium
+appliedenergistics2:facade:0, Cable Facade - Block of Zinc
+appliedenergistics2:facade:0, Cable Facade - Block of Lost Diamond
+appliedenergistics2:facade:0, Cable Facade - Block of Etrium
+appliedenergistics2:facade:0, Cable Facade - Block of Zucrite
+appliedenergistics2:facade:0, Cable Facade - Block of Rhodium
+appliedenergistics2:facade:0, Cable Facade - Block of Amber
+appliedenergistics2:facade:0, Cable Facade - Block of Topaz
+appliedenergistics2:facade:0, Cable Facade - Block of Opal
+appliedenergistics2:facade:0, Cable Facade - Block of Aquamarine
+appliedenergistics2:facade:0, Cable Facade - Block of Garnet
+appliedenergistics2:facade:0, Cable Facade - Block of Ruby
+appliedenergistics2:facade:0, Cable Facade - Block of Static Amber
+appliedenergistics2:facade:0, Cable Facade - Block of Icy Aquamarine
+appliedenergistics2:facade:0, Cable Facade - Block of Fiery Garnet
+appliedenergistics2:facade:0, Cable Facade - Block of Witherite
+appliedenergistics2:facade:0, Cable Facade - Block of Radium
+appliedenergistics2:facade:0, Cable Facade - Block of Netheridium
+appliedenergistics2:facade:0, Cable Facade - Netherized Obsidian
+appliedenergistics2:facade:0, Cable Facade - Blood Obsidian
+appliedenergistics2:facade:0, Cable Facade - Block of Shadow Bone
+appliedenergistics2:facade:0, Cable Facade - Shinestone
+appliedenergistics2:facade:0, Cable Facade - Shinestone Crystal
+appliedenergistics2:facade:0, Cable Facade - Polished Shinestone
+appliedenergistics2:facade:0, Cable Facade - Shinestone Crystal Bricks
+appliedenergistics2:facade:0, Cable Facade - Block of Compressed Heartium
+appliedenergistics2:facade:0, Cable Facade - Block of Compressed Virinium
+appliedenergistics2:facade:0, Cable Facade - Block of Compressed Evenium
+appliedenergistics2:facade:0, Cable Facade - Block of Compressed Cobalt
+appliedenergistics2:facade:0, Cable Facade - Block of Compressed Promethean
+appliedenergistics2:facade:0, Cable Facade - Block of Compressed Super Charged Coal
+appliedenergistics2:facade:0, Cable Facade - Block of Compressed Zucrite
+appliedenergistics2:facade:0, Cable Facade - Block of Compressed Rhodium
+appliedenergistics2:facade:0, Cable Facade - White Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Black Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Gray Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Orange Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Brown Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Red Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Blue Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Yellow Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Purple Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Cyan Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Pink Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Green Candy Cube
+appliedenergistics2:facade:0, Cable Facade - Chocolate Block
+appliedenergistics2:facade:0, Cable Facade - Chocolate Bricks
+appliedenergistics2:facade:0, Cable Facade - Cookie Block
+appliedenergistics2:facade:0, Cable Facade - Brownie Block
+appliedenergistics2:facade:0, Cable Facade - Ice Cream Sandwich Block
+appliedenergistics2:facade:0, Cable Facade - Sugar Cube
+appliedenergistics2:facade:0, Cable Facade - Space Station Block
+appliedenergistics2:facade:0, Cable Facade - Outpost Block
+appliedenergistics2:facade:0, Cable Facade - Lore Block
+appliedenergistics2:facade:0, Cable Facade - Lost Sand
+appliedenergistics2:facade:0, Cable Facade - Lost Rock
+appliedenergistics2:facade:0, Cable Facade - Lost Stone
+appliedenergistics2:facade:0, Cable Facade - Lost Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Lost Rock Bricks
+appliedenergistics2:facade:0, Cable Facade - Lost Gravel
+appliedenergistics2:facade:0, Cable Facade - Lost Creepdirt
+appliedenergistics2:facade:0, Cable Facade - Lost Soil
+appliedenergistics2:facade:0, Cable Facade - Lost Dirt
+appliedenergistics2:facade:0, Cable Facade - Lost Grass
+appliedenergistics2:facade:0, Cable Facade - Lost Creepstone
+appliedenergistics2:facade:0, Cable Facade - Lost Glowstone
+appliedenergistics2:facade:0, Cable Facade - Lost Cavestone
+appliedenergistics2:facade:0, Cable Facade - Lost Cavestone Bricks
+appliedenergistics2:facade:0, Cable Facade - Lost Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Lost Etrium Ore
+appliedenergistics2:facade:0, Cable Facade - Lost Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Lost Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Lost Zollernium Ore
+appliedenergistics2:facade:0, Cable Facade - Lost Fueltonium Ore
+appliedenergistics2:facade:0, Cable Facade - Lost Palmwood Log
+appliedenergistics2:facade:0, Cable Facade - Lost Palmwood Leaves
+appliedenergistics2:facade:0, Cable Facade - Lost Palmwood Planks
+appliedenergistics2:facade:0, Cable Facade - Altum Rock
+appliedenergistics2:facade:0, Cable Facade - Altum Sand
+appliedenergistics2:facade:0, Cable Facade - Altum Dirt
+appliedenergistics2:facade:0, Cable Facade - Altum Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Altum Stone
+appliedenergistics2:facade:0, Cable Facade - Altum Gravel
+appliedenergistics2:facade:0, Cable Facade - Altum Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Altum Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Altum Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Altum Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Altum Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Altum Zollernium Ore
+appliedenergistics2:facade:0, Cable Facade - Altum Evenium Ore
+appliedenergistics2:facade:0, Cable Facade - Altum Rhodium Ore
+appliedenergistics2:facade:0, Cable Facade - Altum Amaranth Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Surface Rock
+appliedenergistics2:facade:0, Cable Facade - Caligro Rock
+appliedenergistics2:facade:0, Cable Facade - Caligro Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Caligro Mossy Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Caligro Stone
+appliedenergistics2:facade:0, Cable Facade - Caligro Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Caligro Gravel
+appliedenergistics2:facade:0, Cable Facade - Caligro Dirt
+appliedenergistics2:facade:0, Cable Facade - Witherrack
+appliedenergistics2:facade:0, Cable Facade - Caligro Creepstone
+appliedenergistics2:facade:0, Cable Facade - Caligro Creepdirt
+appliedenergistics2:facade:0, Cable Facade - Witherite Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Shinium Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Amaranth Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Zinc Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Amber Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Topaz Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Opal Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Aquamarine Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Garnet Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Super Charged Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Fueltonium Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Radium Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Lapis Lazuli Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Zollernium Ore
+appliedenergistics2:facade:0, Cable Facade - Caligro Ruby Ore
+appliedenergistics2:facade:0, Cable Facade - Shadow Spawner
+appliedenergistics2:facade:0, Cable Facade - Corrupted Rock
+appliedenergistics2:facade:0, Cable Facade - Corrupted Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Corrupted Stone
+appliedenergistics2:facade:0, Cable Facade - Corrupted Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Corrupted Ascendium Ore
+appliedenergistics2:facade:0, Cable Facade - Corrupted Etrium Ore
+appliedenergistics2:facade:0, Cable Facade - Corrupted Chargium Ore
+appliedenergistics2:facade:0, Cable Facade - Corrupted Creepstone
+appliedenergistics2:facade:0, Cable Facade - Exodus Dirt
+appliedenergistics2:facade:0, Cable Facade - Exodus Grass
+appliedenergistics2:facade:0, Cable Facade - Exodus Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Exodus Stone
+appliedenergistics2:facade:0, Cable Facade - Exodus Gravel
+appliedenergistics2:facade:0, Cable Facade - Exodus Rock
+appliedenergistics2:facade:0, Cable Facade - Exo Sand
+appliedenergistics2:facade:0, Cable Facade - Exodus Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Exodus Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Exodus Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Exodus Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Exodus Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Exo Log
+appliedenergistics2:facade:0, Cable Facade - Exo Leaves
+appliedenergistics2:facade:0, Cable Facade - Exo Planks
+appliedenergistics2:facade:0, Cable Facade - Vortex Surface Rock
+appliedenergistics2:facade:0, Cable Facade - Vortex Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Vortex Stone
+appliedenergistics2:facade:0, Cable Facade - Volt Rock
+appliedenergistics2:facade:0, Cable Facade - Vortex Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Vortex Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Vortex Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Vortex Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Vortex Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Vortex Super Charged Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Vortex Fueltonium Ore
+appliedenergistics2:facade:0, Cable Facade - Vortex Evenium Ore
+appliedenergistics2:facade:0, Cable Facade - Blueprint Repair Station
+appliedenergistics2:facade:0, Cable Facade - Healing Station
+appliedenergistics2:facade:0, Cable Facade - Iron Siren
+appliedenergistics2:facade:0, Cable Facade - Gold Siren
+appliedenergistics2:facade:0, Cable Facade - Diamond Siren
+appliedenergistics2:facade:0, Cable Facade - Emerald Siren
+appliedenergistics2:facade:0, Cable Facade - Iron Siren
+appliedenergistics2:facade:0, Cable Facade - Gold Siren
+appliedenergistics2:facade:0, Cable Facade - Diamond Siren
+appliedenergistics2:facade:0, Cable Facade - Emerald Siren
 appliedenergistics2:facade:0, Cable Facade - Steel Block
 appliedenergistics2:facade:0, Cable Facade - Refined Iron Block
 appliedenergistics2:facade:0, Cable Facade - Lead Block
@@ -7036,6 +7936,7 @@ appliedenergistics2:facade:0, Cable Facade - Sky Stone
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Block
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Brick
 appliedenergistics2:facade:0, Cable Facade - Sky Stone Small Brick
+appliedenergistics2:facade:0, Cable Facade - Dark Marble
 appliedenergistics2:facade:0, Cable Facade - Electrical Steel Block
 appliedenergistics2:facade:0, Cable Facade - Infinity Dust Block
 appliedenergistics2:facade:0, Cable Facade - Compressed Infinity Dust Block
@@ -9186,7 +10087,7 @@ appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Lead Block
 appliedenergistics2:facade:0, Cable Facade - Solar Ore
 appliedenergistics2:facade:0, Cable Facade - Scorched Venus Rock
-appliedenergistics2:facade:0, Cable Facade - Based Machine Frame
+appliedenergistics2:facade:0, Cable Facade - Basic Machine Frame
 appliedenergistics2:facade:0, Cable Facade - Advanced Machine Frame
 appliedenergistics2:facade:0, Cable Facade - Modern Machine Frame
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
@@ -9244,6 +10145,7 @@ appliedenergistics2:facade:0, Cable Facade - Brown Europa Ice
 appliedenergistics2:facade:0, Cable Facade - Emerald Ore
 appliedenergistics2:facade:0, Cable Facade - Silicon Ore
 appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - tile.europa_surface_ice_2.name
 appliedenergistics2:facade:0, Cable Facade - Europa Geyser
 appliedenergistics2:facade:0, Cable Facade - Europa Geyser
 appliedenergistics2:facade:0, Cable Facade - Ganymede Surface Grunt
@@ -9285,6 +10187,22 @@ appliedenergistics2:facade:0, Cable Facade - Triton Subsurface Grunt
 appliedenergistics2:facade:0, Cable Facade - Triton Stone
 appliedenergistics2:facade:0, Cable Facade - Triton Geyser
 appliedenergistics2:facade:0, Cable Facade - Triton Small Geyser
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
+appliedenergistics2:facade:0, Cable Facade - Proxima B Surface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Subsurface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Stone
+appliedenergistics2:facade:0, Cable Facade - Proxima B Ice Surface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Ash Rock
+appliedenergistics2:facade:0, Cable Facade - Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Burnt Wood
+appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Stone
@@ -9310,19 +10228,6 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
-appliedenergistics2:facade:0, Cable Facade - Proxima B Surface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Subsurface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Stone
-appliedenergistics2:facade:0, Cable Facade - Proxima B Ice Surface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Ash Rock
-appliedenergistics2:facade:0, Cable Facade - Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Burnt Wood
-appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Mercury Surface Rock
 appliedenergistics2:facade:0, Cable Facade - Mercury Sub-Surface Rock
 appliedenergistics2:facade:0, Cable Facade - Mercury Stone
@@ -9797,7 +10702,6 @@ appliedenergistics2:facade:0, Cable Facade - Birch Trim
 appliedenergistics2:facade:0, Cable Facade - Jungle Trim
 appliedenergistics2:facade:0, Cable Facade - Acacia Trim
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Trim
-appliedenergistics2:facade:0, Cable Facade - Dark Marble
 appliedenergistics2:facade:0, Cable Facade - Water Spring
 appliedenergistics2:facade:0, Cable Facade - Oil Spring
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.destroy.name
@@ -9806,11 +10710,13 @@ appliedenergistics2:facade:0, Cable Facade - Template (Decoration)
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.paper.name
 appliedenergistics2:facade:0, Cable Facade - tile.decorated.leather.name
 appliedenergistics2:facade:0, Cable Facade - Laser (Decoration)
+appliedenergistics2:facade:0, Cable Facade - Block of Ascendium
 appliedenergistics2:facade:0, Cable Facade - Block of Blue Diamond
 appliedenergistics2:facade:0, Cable Facade - Block of Certus Quartz
 appliedenergistics2:facade:0, Cable Facade - Block of Charged Certus Quartz
 appliedenergistics2:facade:0, Cable Facade - Block of Dimensional Shard
 appliedenergistics2:facade:0, Cable Facade - Block of Green Diamond
+appliedenergistics2:facade:0, Cable Facade - Block of Heartium
 appliedenergistics2:facade:0, Cable Facade - Block of Purple Diamond
 appliedenergistics2:facade:0, Cable Facade - Block of Red Diamond
 appliedenergistics2:facade:0, Cable Facade - Block of Yellow Diamond
@@ -10033,6 +10939,62 @@ appliedenergistics2:part:220, ME Storage Bus
 appliedenergistics2:part:400, ME Storage Monitor
 appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
+tombstone:decorative_grave_simple:0, Simple Grave
+tombstone:decorative_grave_simple:1, Simple Grave
+tombstone:decorative_grave_normal:0, Normal Grave
+tombstone:decorative_grave_normal:1, Normal Grave
+tombstone:decorative_grave_cross:0, Cross Grave
+tombstone:decorative_grave_cross:1, Cross Grave
+tombstone:decorative_tombstone:0, Tombstone
+tombstone:decorative_tombstone:1, Tombstone
+tombstone:decorative_subaraki_grave:0, Subaraki's Grave
+tombstone:decorative_subaraki_grave:1, Subaraki's Grave
+tombstone:decorative_grave_original:0, Original Grave
+tombstone:decorative_grave_original:1, Original Grave
+tombstone:dark_marble:0, Dark Marble
+tombstone:dark_marble:1, White Marble
+tombstone:grave_key, Grave's Key
+tombstone:grave_plate, Grave Plate
+tombstone:scroll_of_knowledge, Scroll of Knowledge
+tombstone:scroll_buff:0, §6Scroll of Preservation
+tombstone:scroll_buff:1, §6Scroll of Unstable Intangibility
+tombstone:scroll_buff:2, §6Scroll of Feather Falling
+tombstone:scroll_buff:3, §6Scroll of Purification
+tombstone:scroll_buff:4, §6Scroll of True Sight
+tombstone:scroll_buff:5, §6Scroll of Reach
+tombstone:scroll_buff:6, §6Scroll of Lightning Resistance
+tombstone:tablet_of_recall, Tablet of Recall
+tombstone:tablet_of_home, Tablet of Home
+tombstone:tablet_of_assistance, Tablet of Assistance
+tombstone:tablet_of_cupidity, Tablet of Cupidity
+tombstone:fishing_rod_of_misadventure, Fishing Rod of Misadventure
+tombstone:lost_tablet, Lost Tablet
+tombstone:dust_of_vanishing, Dust of Vanishing
+tombstone:soul_receptacle, Soul Receptacle
+tombstone:familiar_receptacle, Familiar Receptacle
+tombstone:voodoo_poppet, Voodoo Poppet
+tombstone:book_of_disenchantment, Book of Disenchantment
+tombstone:ankh_of_pray, Ânkh of Pray
+tombstone:lollipop:0, Halloween Lollipop
+tombstone:lollipop:1, Halloween Lollipop
+tombstone:lollipop:2, Halloween Lollipop
+tombstone:lollipop:3, Halloween Lollipop
+tombstone:lollipop:4, Halloween Lollipop
+tombstone:advancement:0, item.null.name
+tombstone:advancement:1, item.null.name
+tombstone:advancement:2, item.null.name
+tombstone:advancement:3, item.null.name
+tombstone:advancement:4, item.null.name
+tombstone:advancement:5, item.null.name
+tombstone:advancement:6, item.null.name
+tombstone:advancement:7, item.null.name
+tombstone:advancement:8, item.null.name
+tombstone:advancement:9, item.null.name
+tombstone:crafting_ingredient:0, Strange Scroll
+tombstone:crafting_ingredient:1, Strange Tablet
+tombstone:crafting_ingredient:3, Grave's Dust
+tombstone:bone_needle, Bone Needle
+tombstone:impregnated_diamond, Impregnated Diamond
 enderio:item_enderface, Enderface
 enderio:item_conduit_facade:0, Conduit Facade
 enderio:item_conduit_facade:1, Hardened Conduit Facade
@@ -10162,12 +11124,14 @@ enderio:item_material:77, Black Paper
 enderio:item_material:78, Animal Token
 enderio:item_material:79, Monster Token
 enderio:item_material:80, Player Token
+enderio:item_material:81, Unfired Death Urn
 enderio:item_broken_spawner:0, Broken Spawner
 enderio:block_infinity_fog:0, Infinity Dust
 enderio:block_infinity:0, Infinity Dust Block
 enderio:block_infinity:1, Compressed Infinity Dust Block
 enderio:block_infinity:2, Double Compressed Infinity Dust Block
-enderio:block_holy_fog, Glowstone Nano-Particles
+enderio:block_holy_fog, Glowstone Nano-Particles (old)
+enderio:block_holier_fog, Glowstone Nano-Particles
 enderio:block_dark_steel_anvil:0, Dark Steel Anvil
 enderio:block_dark_steel_anvil:1, Slightly Damaged Dark Steel Anvil
 enderio:block_dark_steel_anvil:2, Very Damaged Dark Steel Anvil
@@ -11068,6 +12032,7 @@ enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
 enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
+enderio:block_death_pouch, Death Urn
 enderio:item_owl_egg, Owl Egg
 enderio:block_alloy_endergy:0, Crude Steel Block
 enderio:block_alloy_endergy:1, Crystalline Alloy Block
@@ -11343,34 +12308,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -11408,6 +12373,8 @@ tconstruct:shard:0, Lead Shard
 tconstruct:shard:0, Silver Shard
 tconstruct:shard:0, Electrum Shard
 tconstruct:shard:0, Steel Shard
+tconstruct:shard:0, Radium Shard
+tconstruct:shard:0, Corruption Shard
 tconstruct:sharpening_kit:0, Electrical Sharpening Kit
 tconstruct:sharpening_kit:0, Energetic Sharpening Kit
 tconstruct:sharpening_kit:0, Vibrant Sharpening Kit
@@ -11445,6 +12412,8 @@ tconstruct:sharpening_kit:0, Lead Sharpening Kit
 tconstruct:sharpening_kit:0, Silver Sharpening Kit
 tconstruct:sharpening_kit:0, Electrum Sharpening Kit
 tconstruct:sharpening_kit:0, Steel Sharpening Kit
+tconstruct:sharpening_kit:0, Radium Sharpening Kit
+tconstruct:sharpening_kit:0, Corruption Sharpening Kit
 tconstruct:pick_head:0, Electrical Pickaxe Head
 tconstruct:pick_head:0, Energetic Pickaxe Head
 tconstruct:pick_head:0, Vibrant Pickaxe Head
@@ -11482,6 +12451,8 @@ tconstruct:pick_head:0, Lead Pickaxe Head
 tconstruct:pick_head:0, Silver Pickaxe Head
 tconstruct:pick_head:0, Electrum Pickaxe Head
 tconstruct:pick_head:0, Steel Pickaxe Head
+tconstruct:pick_head:0, Radium Pickaxe Head
+tconstruct:pick_head:0, Corruption Pickaxe Head
 tconstruct:shovel_head:0, Electrical Shovel Head
 tconstruct:shovel_head:0, Energetic Shovel Head
 tconstruct:shovel_head:0, Vibrant Shovel Head
@@ -11519,6 +12490,8 @@ tconstruct:shovel_head:0, Lead Shovel Head
 tconstruct:shovel_head:0, Silver Shovel Head
 tconstruct:shovel_head:0, Electrum Shovel Head
 tconstruct:shovel_head:0, Steel Shovel Head
+tconstruct:shovel_head:0, Radium Shovel Head
+tconstruct:shovel_head:0, Corruption Shovel Head
 tconstruct:axe_head:0, Electrical Axe Head
 tconstruct:axe_head:0, Energetic Axe Head
 tconstruct:axe_head:0, Vibrant Axe Head
@@ -11556,6 +12529,8 @@ tconstruct:axe_head:0, Lead Axe Head
 tconstruct:axe_head:0, Silver Axe Head
 tconstruct:axe_head:0, Electrum Axe Head
 tconstruct:axe_head:0, Steel Axe Head
+tconstruct:axe_head:0, Radium Axe Head
+tconstruct:axe_head:0, Corruption Axe Head
 tconstruct:broad_axe_head:0, Electrical Broad Axe Head
 tconstruct:broad_axe_head:0, Energetic Broad Axe Head
 tconstruct:broad_axe_head:0, Vibrant Broad Axe Head
@@ -11593,6 +12568,8 @@ tconstruct:broad_axe_head:0, Lead Broad Axe Head
 tconstruct:broad_axe_head:0, Silver Broad Axe Head
 tconstruct:broad_axe_head:0, Electrum Broad Axe Head
 tconstruct:broad_axe_head:0, Steel Broad Axe Head
+tconstruct:broad_axe_head:0, Radium Broad Axe Head
+tconstruct:broad_axe_head:0, Corruption Broad Axe Head
 tconstruct:sword_blade:0, Electrical Sword Blade
 tconstruct:sword_blade:0, Energetic Sword Blade
 tconstruct:sword_blade:0, Vibrant Sword Blade
@@ -11630,6 +12607,8 @@ tconstruct:sword_blade:0, Lead Sword Blade
 tconstruct:sword_blade:0, Silver Sword Blade
 tconstruct:sword_blade:0, Electrum Sword Blade
 tconstruct:sword_blade:0, Steel Sword Blade
+tconstruct:sword_blade:0, Radium Sword Blade
+tconstruct:sword_blade:0, Corruption Sword Blade
 tconstruct:large_sword_blade:0, Electrical Large Sword Blade
 tconstruct:large_sword_blade:0, Energetic Large Sword Blade
 tconstruct:large_sword_blade:0, Vibrant Large Sword Blade
@@ -11667,6 +12646,8 @@ tconstruct:large_sword_blade:0, Lead Large Sword Blade
 tconstruct:large_sword_blade:0, Silver Large Sword Blade
 tconstruct:large_sword_blade:0, Electrum Large Sword Blade
 tconstruct:large_sword_blade:0, Steel Large Sword Blade
+tconstruct:large_sword_blade:0, Radium Large Sword Blade
+tconstruct:large_sword_blade:0, Corruption Large Sword Blade
 tconstruct:hammer_head:0, Electrical Hammer Head
 tconstruct:hammer_head:0, Energetic Hammer Head
 tconstruct:hammer_head:0, Vibrant Hammer Head
@@ -11704,6 +12685,8 @@ tconstruct:hammer_head:0, Lead Hammer Head
 tconstruct:hammer_head:0, Silver Hammer Head
 tconstruct:hammer_head:0, Electrum Hammer Head
 tconstruct:hammer_head:0, Steel Hammer Head
+tconstruct:hammer_head:0, Radium Hammer Head
+tconstruct:hammer_head:0, Corruption Hammer Head
 tconstruct:excavator_head:0, Electrical Excavator Head
 tconstruct:excavator_head:0, Energetic Excavator Head
 tconstruct:excavator_head:0, Vibrant Excavator Head
@@ -11741,6 +12724,8 @@ tconstruct:excavator_head:0, Lead Excavator Head
 tconstruct:excavator_head:0, Silver Excavator Head
 tconstruct:excavator_head:0, Electrum Excavator Head
 tconstruct:excavator_head:0, Steel Excavator Head
+tconstruct:excavator_head:0, Radium Excavator Head
+tconstruct:excavator_head:0, Corruption Excavator Head
 tconstruct:kama_head:0, Electrical Kama Head
 tconstruct:kama_head:0, Energetic Kama Head
 tconstruct:kama_head:0, Vibrant Kama Head
@@ -11778,6 +12763,8 @@ tconstruct:kama_head:0, Lead Kama Head
 tconstruct:kama_head:0, Silver Kama Head
 tconstruct:kama_head:0, Electrum Kama Head
 tconstruct:kama_head:0, Steel Kama Head
+tconstruct:kama_head:0, Radium Kama Head
+tconstruct:kama_head:0, Corruption Kama Head
 tconstruct:scythe_head:0, Electrical Scythe Head
 tconstruct:scythe_head:0, Energetic Scythe Head
 tconstruct:scythe_head:0, Vibrant Scythe Head
@@ -11815,6 +12802,8 @@ tconstruct:scythe_head:0, Lead Scythe Head
 tconstruct:scythe_head:0, Silver Scythe Head
 tconstruct:scythe_head:0, Electrum Scythe Head
 tconstruct:scythe_head:0, Steel Scythe Head
+tconstruct:scythe_head:0, Radium Scythe Head
+tconstruct:scythe_head:0, Corruption Scythe Head
 tconstruct:pan_head:0, Electrical Pan
 tconstruct:pan_head:0, Energetic Pan
 tconstruct:pan_head:0, Vibrant Pan
@@ -11852,6 +12841,8 @@ tconstruct:pan_head:0, Lead Pan
 tconstruct:pan_head:0, Silver Pan
 tconstruct:pan_head:0, Electrum Pan
 tconstruct:pan_head:0, Steel Pan
+tconstruct:pan_head:0, Radium Pan
+tconstruct:pan_head:0, Corruption Pan
 tconstruct:sign_head:0, Electrical Sign Plate
 tconstruct:sign_head:0, Energetic Sign Plate
 tconstruct:sign_head:0, Vibrant Sign Plate
@@ -11889,6 +12880,8 @@ tconstruct:sign_head:0, Lead Sign Plate
 tconstruct:sign_head:0, Silver Sign Plate
 tconstruct:sign_head:0, Electrum Sign Plate
 tconstruct:sign_head:0, Steel Sign Plate
+tconstruct:sign_head:0, Radium Sign Plate
+tconstruct:sign_head:0, Corruption Sign Plate
 tconstruct:tool_rod:0, Electrical Tool Rod
 tconstruct:tool_rod:0, Energetic Tool Rod
 tconstruct:tool_rod:0, Vibrant Tool Rod
@@ -11926,6 +12919,8 @@ tconstruct:tool_rod:0, Lead Tool Rod
 tconstruct:tool_rod:0, Silver Tool Rod
 tconstruct:tool_rod:0, Electrum Tool Rod
 tconstruct:tool_rod:0, Steel Tool Rod
+tconstruct:tool_rod:0, Radium Tool Rod
+tconstruct:tool_rod:0, Corruption Tool Rod
 tconstruct:tough_tool_rod:0, Electrical Tough Tool Rod
 tconstruct:tough_tool_rod:0, Energetic Tough Tool Rod
 tconstruct:tough_tool_rod:0, Vibrant Tough Tool Rod
@@ -11963,6 +12958,8 @@ tconstruct:tough_tool_rod:0, Lead Tough Tool Rod
 tconstruct:tough_tool_rod:0, Silver Tough Tool Rod
 tconstruct:tough_tool_rod:0, Electrum Tough Tool Rod
 tconstruct:tough_tool_rod:0, Steel Tough Tool Rod
+tconstruct:tough_tool_rod:0, Radium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Corruption Tough Tool Rod
 tconstruct:binding:0, Electrical Binding
 tconstruct:binding:0, Energetic Binding
 tconstruct:binding:0, Vibrant Binding
@@ -12000,6 +12997,8 @@ tconstruct:binding:0, Lead Binding
 tconstruct:binding:0, Silver Binding
 tconstruct:binding:0, Electrum Binding
 tconstruct:binding:0, Steel Binding
+tconstruct:binding:0, Radium Binding
+tconstruct:binding:0, Corruption Binding
 tconstruct:tough_binding:0, Electrical Tough Binding
 tconstruct:tough_binding:0, Energetic Tough Binding
 tconstruct:tough_binding:0, Vibrant Tough Binding
@@ -12037,6 +13036,8 @@ tconstruct:tough_binding:0, Lead Tough Binding
 tconstruct:tough_binding:0, Silver Tough Binding
 tconstruct:tough_binding:0, Electrum Tough Binding
 tconstruct:tough_binding:0, Steel Tough Binding
+tconstruct:tough_binding:0, Radium Tough Binding
+tconstruct:tough_binding:0, Corruption Tough Binding
 tconstruct:wide_guard:0, Electrical Wide Guard
 tconstruct:wide_guard:0, Energetic Wide Guard
 tconstruct:wide_guard:0, Vibrant Wide Guard
@@ -12074,6 +13075,8 @@ tconstruct:wide_guard:0, Lead Wide Guard
 tconstruct:wide_guard:0, Silver Wide Guard
 tconstruct:wide_guard:0, Electrum Wide Guard
 tconstruct:wide_guard:0, Steel Wide Guard
+tconstruct:wide_guard:0, Radium Wide Guard
+tconstruct:wide_guard:0, Corruption Wide Guard
 tconstruct:hand_guard:0, Electrical Hand Guard
 tconstruct:hand_guard:0, Energetic Hand Guard
 tconstruct:hand_guard:0, Vibrant Hand Guard
@@ -12111,6 +13114,8 @@ tconstruct:hand_guard:0, Lead Hand Guard
 tconstruct:hand_guard:0, Silver Hand Guard
 tconstruct:hand_guard:0, Electrum Hand Guard
 tconstruct:hand_guard:0, Steel Hand Guard
+tconstruct:hand_guard:0, Radium Hand Guard
+tconstruct:hand_guard:0, Corruption Hand Guard
 tconstruct:cross_guard:0, Electrical Cross Guard
 tconstruct:cross_guard:0, Energetic Cross Guard
 tconstruct:cross_guard:0, Vibrant Cross Guard
@@ -12148,6 +13153,8 @@ tconstruct:cross_guard:0, Lead Cross Guard
 tconstruct:cross_guard:0, Silver Cross Guard
 tconstruct:cross_guard:0, Electrum Cross Guard
 tconstruct:cross_guard:0, Steel Cross Guard
+tconstruct:cross_guard:0, Radium Cross Guard
+tconstruct:cross_guard:0, Corruption Cross Guard
 tconstruct:large_plate:0, Electrical Large Plate
 tconstruct:large_plate:0, Energetic Large Plate
 tconstruct:large_plate:0, Vibrant Large Plate
@@ -12185,6 +13192,8 @@ tconstruct:large_plate:0, Lead Large Plate
 tconstruct:large_plate:0, Silver Large Plate
 tconstruct:large_plate:0, Electrum Large Plate
 tconstruct:large_plate:0, Steel Large Plate
+tconstruct:large_plate:0, Radium Large Plate
+tconstruct:large_plate:0, Corruption Large Plate
 tconstruct:knife_blade:0, Electrical Knife Blade
 tconstruct:knife_blade:0, Energetic Knife Blade
 tconstruct:knife_blade:0, Vibrant Knife Blade
@@ -12222,6 +13231,8 @@ tconstruct:knife_blade:0, Lead Knife Blade
 tconstruct:knife_blade:0, Silver Knife Blade
 tconstruct:knife_blade:0, Electrum Knife Blade
 tconstruct:knife_blade:0, Steel Knife Blade
+tconstruct:knife_blade:0, Radium Knife Blade
+tconstruct:knife_blade:0, Corruption Knife Blade
 tconstruct:bow_limb:0, Electrical Bowlimb
 tconstruct:bow_limb:0, Energetic Bowlimb
 tconstruct:bow_limb:0, Vibrant Bowlimb
@@ -12259,6 +13270,8 @@ tconstruct:bow_limb:0, Lead Bowlimb
 tconstruct:bow_limb:0, Silver Bowlimb
 tconstruct:bow_limb:0, Electrum Bowlimb
 tconstruct:bow_limb:0, Steel Bowlimb
+tconstruct:bow_limb:0, Radium Bowlimb
+tconstruct:bow_limb:0, Corruption Bowlimb
 tconstruct:bow_string:0, Souled Bowstring
 tconstruct:bow_string:0, String Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
@@ -12301,12 +13314,16 @@ tconstruct:arrow_head:0, Lead Arrow Head
 tconstruct:arrow_head:0, Silver Arrow Head
 tconstruct:arrow_head:0, Electrum Arrow Head
 tconstruct:arrow_head:0, Steel Arrow Head
+tconstruct:arrow_head:0, Radium Arrow Head
+tconstruct:arrow_head:0, Corruption Arrow Head
 tconstruct:arrow_shaft:0, Wooden Arrow Shaft
 tconstruct:arrow_shaft:0, Bone Arrow Shaft
 tconstruct:arrow_shaft:0, Blazerod Arrow Shaft
 tconstruct:arrow_shaft:0, Reeds Arrow Shaft
 tconstruct:arrow_shaft:0, Ice Arrow Shaft
 tconstruct:arrow_shaft:0, Endrod Arrow Shaft
+tconstruct:arrow_shaft:0, Radium Arrow Shaft
+tconstruct:arrow_shaft:0, Corruption Arrow Shaft
 tconstruct:fletching:0, Feather Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
 tconstruct:fletching:0, Slimeleaf Fletching
@@ -12318,6 +13335,8 @@ tconstruct:bolt_core:0, Blazerod-Iron Bolt Core
 tconstruct:bolt_core:0, Reeds-Iron Bolt Core
 tconstruct:bolt_core:0, Ice-Iron Bolt Core
 tconstruct:bolt_core:0, Endrod-Iron Bolt Core
+tconstruct:bolt_core:0, Radium-Iron Bolt Core
+tconstruct:bolt_core:0, Corruption-Iron Bolt Core
 tconstruct:tooltables:0, Crafting Station
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
@@ -12422,7 +13441,19 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -12545,64 +13576,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -13068,7 +14099,7 @@ galacticraftplanets:basic_item_venus:6, Solar Array Wafer
 galacticraftplanets:volcanic_pickaxe, Volcanic Pickaxe
 galacticraftplanets:key_t3:0, Tier 3 Dungeon Key
 galacticraftplanets:atomic_battery, Atomic Battery
-galaxyspace:machineframes:0, Based Machine Frame
+galaxyspace:machineframes:0, Basic Machine Frame
 galaxyspace:machineframes:1, Advanced Machine Frame
 galaxyspace:machineframes:2, Modern Machine Frame
 galaxyspace:assembly_machine, Assembly Machine
@@ -13091,9 +14122,10 @@ galaxyspace:advanced_landing_pad, Advanced Landing Pad
 galaxyspace:modification_table, Modification Table
 galaxyspace:gas_burner, Gas Burner
 galaxyspace:oxygen_storage_module_1, Oxygen Storage Cluster
-galaxyspace:solarwind_panel, Solarwind Panel
+galaxyspace:solarwind_panel, Solar-Wind Panel
 galaxyspace:adv_circuit_fabricator, Advanced Circuit Fabricator
-galaxyspace:planet_shield, Planetar Shield
+galaxyspace:planet_shield, Planetary Shield
+galaxyspace:energy_pad, Energy Pad
 galaxyspace:dungeon_blocks:0, Ceres Dungeon Brick
 galaxyspace:dungeon_blocks:1, Io Dungeon Brick
 galaxyspace:treasure_t4, Treasure Chest Tier 4
@@ -13106,12 +14138,12 @@ galaxyspace:futureglass:3, Brown Future Glass
 galaxyspace:futureglass:4, Blue Future Glass
 galaxyspace:futureglass:5, Purple Future Glass
 galaxyspace:futureglass:6, Cyan Future Glass
-galaxyspace:futureglass:7, Light gray Future Glass
+galaxyspace:futureglass:7, Light Gray Future Glass
 galaxyspace:futureglass:8, Gray Future Glass
 galaxyspace:futureglass:9, Pink Future Glass
 galaxyspace:futureglass:10, Lime Future Glass
 galaxyspace:futureglass:11, Yellow Future Glass
-galaxyspace:futureglass:12, Light blue Future Glass
+galaxyspace:futureglass:12, Light Blue Future Glass
 galaxyspace:futureglass:13, Magneta Future Glass
 galaxyspace:futureglass:14, Orange Future Glass
 galaxyspace:futureglass:15, White Future Glass
@@ -13175,6 +14207,7 @@ galaxyspace:europablocks:2, Brown Europa Ice
 galaxyspace:europablocks:3, Emerald Ore
 galaxyspace:europablocks:4, Silicon Ore
 galaxyspace:europablocks:5, Aluminum Ore
+galaxyspace:europablocks:6, tile.europa_surface_ice_2.name
 galaxyspace:europa_geyser, Europa Geyser
 galaxyspace:europa_uwgeyser, Europa Geyser
 galaxyspace:ganymedeblocks:0, Ganymede Surface Grunt
@@ -13226,7 +14259,7 @@ galaxyspace:gs_basic:5, Modern Wafer
 galaxyspace:gs_basic:6, Hematite
 galaxyspace:gs_basic:7, Sulfur
 galaxyspace:gs_basic:8, Unknown Crystal Shard
-galaxyspace:gs_basic:9, Antiradiation Tablets
+galaxyspace:gs_basic:9, Anti Radiation Tablets
 galaxyspace:gs_basic:10, Schematics Box
 galaxyspace:gs_basic:11, Blank Module
 galaxyspace:gs_basic:12, Volcanic Shard
@@ -13235,7 +14268,7 @@ galaxyspace:gs_basic:14, Blank Schematic
 galaxyspace:gs_basic:15, Uranium
 galaxyspace:gs_basic:16, Prototype Controller Shield
 galaxyspace:gs_basic:17, Bucket with Ice
-galaxyspace:gs_basic:18, Emergency Portable Teleport
+galaxyspace:gs_basic:18, Portable Emergency Teleport
 galaxyspace:gs_basic:19, [WIP] Info-Pad
 galaxyspace:gs_basic:20, Advanced Emergency Kit
 galaxyspace:gs_basic:21, Thermal Cloth
@@ -13246,6 +14279,10 @@ galaxyspace:gs_basic:25, Methane Ice Shard
 galaxyspace:gs_basic:26, Hydrogen Ice Shard
 galaxyspace:gs_basic:27, Dry Ice Shard
 galaxyspace:gs_basic:28, Colonist Kit
+galaxyspace:gs_basic:29, Empty Plasma Cell
+galaxyspace:gs_basic:30, Filled Plasma Cell
+galaxyspace:gs_basic:31, Wolf Thermal Suit
+galaxyspace:gs_basic:32, Animal Cage
 galaxyspace:ingots:0, Cobalt Ingot
 galaxyspace:ingots:1, Magnesium Ingot
 galaxyspace:ingots:2, Nickel Ingot
@@ -13257,14 +14294,17 @@ galaxyspace:compressed_plates:1, Compressed Cobalt
 galaxyspace:compressed_plates:2, Compressed Magnesium
 galaxyspace:compressed_plates:3, Compressed Nickel
 galaxyspace:compressed_plates:4, Compressed "SDHC-120" Alloy
-galaxyspace:rocket_modules:0, Lander Tier 1
-galaxyspace:rocket_modules:1, Lander Tier 2
-galaxyspace:rocket_modules:2, Lander Tier 3
+galaxyspace:rocket_modules:0, Tier 1 Lander
+galaxyspace:rocket_modules:1, Tier 2 Lander
+galaxyspace:rocket_modules:2, Tier 3 Lander
 galaxyspace:rocket_modules:3, Small Fuel Canister
 galaxyspace:rocket_modules:4, Ion Engine
 galaxyspace:rocket_modules:5, [WIP] Plasma Engine
 galaxyspace:rocket_modules:6, Sublight Engine
 galaxyspace:rocket_modules:7, [WIP] Black Hole Engine
+galaxyspace:rocket_modules:8, Rocket License
+galaxyspace:rocket_modules:9, Rocket License
+galaxyspace:rocket_modules:10, Rocket License
 galaxyspace:rocket_parts:0, Durable Nose Cone
 galaxyspace:rocket_parts:1, Durable Rocket Body
 galaxyspace:rocket_parts:2, Durable Rocket Engine
@@ -13330,11 +14370,11 @@ galaxyspace:rocket_tier_6:0, Tier 6 Rocket
 galaxyspace:mars_rover, Mars Rover
 galaxyspace:space_suit_head, SpaceSuit Helmet
 galaxyspace:space_suit_chest, SpaceSuit Chestplate
-galaxyspace:space_suit_legs, SpaceSuit Leggins
+galaxyspace:space_suit_legs, SpaceSuit Leggings
 galaxyspace:space_suit_feet, SpaceSuit Boots
 galaxyspace:cobalt_helmet, Cobalt Helmet
 galaxyspace:cobalt_chest, Cobalt Chestplate
-galaxyspace:cobalt_legs, Cobalt Leggins
+galaxyspace:cobalt_legs, Cobalt Leggings
 galaxyspace:cobalt_boots, Cobalt Boots
 galaxyspace:thermal_padding_t3:0, Thermal Padding Helm
 galaxyspace:thermal_padding_t3:1, Thermal Padding Chestpiece
@@ -13349,9 +14389,47 @@ galaxyspace:cobalt_axe, Cobalt Axe
 galaxyspace:cobalt_pickaxe, Cobalt Pickaxe
 galaxyspace:cobalt_spade, Cobalt Spade
 galaxyspace:cobalt_hoe, Cobalt Hoe
+galaxyspace:plasma_sword, item.plasma_sword.name
+galaxyspace:plasma_axe, item.plasma_axe.name
+galaxyspace:plasma_pickaxe, item.plasma_pickaxe.name
 galaxyspace:jetpack, Electric Jetpack
 galaxyspace:geo_scanner:0, Geological Scanner
 galaxyspace:geo_scanner:100, Geological Scanner
+galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
+galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
+galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
+galaxyspace:tauceti_f_watergrass:0, Red Algae
+galaxyspace:tauceti_f_watergrass:1, Algae Base
+galaxyspace:tauceti_f_watergrass:2, Algae
+galaxyspace:tauceti_f_watergrass:3, Algae Top
+galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
+galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
+galaxyspace:tauceti_f_watergrass:6, Thick Algae
+galaxyspace:tauceti_f_watergrass:7, Small Kelp
+galaxyspace:tauceti_f_corals:0, Brain Coral
+galaxyspace:tauceti_f_corals:1, Brain Coral Fan
+galaxyspace:tauceti_f_corals:2, Bubble Coral
+galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
+galaxyspace:tauceti_f_corals:4, Fire Coral
+galaxyspace:tauceti_f_corals:5, Fire Coral Fan
+galaxyspace:tauceti_f_corals:6, Horn Coral
+galaxyspace:tauceti_f_corals:7, Horn Coral Fan
+galaxyspace:tauceti_f_corals:8, Tube Coral
+galaxyspace:tauceti_f_corals:9, Tube Coral Fan
+galaxyspace:tauceti_f_corals:10, Sponge Coral
+galaxyspace:proxima_b_blocks:0, Proxima B Surface
+galaxyspace:proxima_b_blocks:1, Proxima B Subsurface
+galaxyspace:proxima_b_blocks:2, Proxima B Stone
+galaxyspace:proxima_b_blocks:3, Proxima B Ice Surface
+galaxyspace:proxima_b_blocks:4, Proxima B Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, Diamond Ore
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
 galaxyspace:barnarda_c_blocks:1, Barnarda C Stone
@@ -13392,19 +14470,6 @@ galaxyspace:br_basic:0, Violet Reeds
 galaxyspace:br_basic:1, Water Grass
 galaxyspace:br_basic:2, Tree Juice
 galaxyspace:br_foods:0, Yellow Fruits
-galaxyspace:proxima_b_blocks:0, Proxima B Surface
-galaxyspace:proxima_b_blocks:1, Proxima B Subsurface
-galaxyspace:proxima_b_blocks:2, Proxima B Stone
-galaxyspace:proxima_b_blocks:3, Proxima B Ice Surface
-galaxyspace:proxima_b_blocks:4, Proxima B Ash Rock
-galaxyspace:proxima_b_blocks:5, Gold Ore
-galaxyspace:proxima_b_blocks:6, Tin Ore
-galaxyspace:proxima_b_blocks:7, Copper Ore
-galaxyspace:proxima_b_blocks:8, Coal Ore
-galaxyspace:proxima_b_blocks:9, Silicon Ore
-galaxyspace:proxima_b_blocks:10, Diamond Ore
-galaxyspace:proxima_b_log_1, Burnt Wood
-galaxyspace:proxima_b_log_2, Frozen Wood
 galacticraftcore:unlit_torch_stone, Stone Torch
 galacticraftcore:unlit_torch_stone_lit, Stone Torch
 bibliocraft:bookcase:0, Oak Bookcase
@@ -15781,27 +16846,6 @@ rftools:ender_monitor, Ender Monitor
 rftools:storage_scanner, Storage Scanner
 rftools:elevator, Elevator
 rftools:booster, Booster
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -15852,53 +16896,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-tombstone:decorative_grave_simple:0, Simple Grave
-tombstone:decorative_grave_simple:1, Simple Grave
-tombstone:decorative_grave_normal:0, Normal Grave
-tombstone:decorative_grave_normal:1, Normal Grave
-tombstone:decorative_grave_cross:0, Cross Grave
-tombstone:decorative_grave_cross:1, Cross Grave
-tombstone:decorative_tombstone:0, Tombstone
-tombstone:decorative_tombstone:1, Tombstone
-tombstone:dark_marble:0, Dark Marble
-tombstone:dark_marble:1, White Marble
-tombstone:grave_key, Grave's Key
-tombstone:scroll_of_knowledge, Scroll of Knowledge
-tombstone:scroll_buff:0, §6Scroll of Preservation
-tombstone:scroll_buff:1, §6Scroll of Unstable Intangibility
-tombstone:scroll_buff:2, §6Scroll of Feather Falling
-tombstone:scroll_buff:3, §6Scroll of Purification
-tombstone:scroll_buff:4, §6Scroll of True Sight
-tombstone:scroll_buff:5, §6Scroll of Reach
-tombstone:scroll_buff:6, §6Scroll of Lightning Resistance
-tombstone:tablet_of_recall, Tablet of Recall
-tombstone:tablet_of_home, Tablet of Home
-tombstone:tablet_of_assistance, Tablet of Assistance
-tombstone:tablet_of_cupidity, Tablet of Cupidity
-tombstone:fishing_rod_of_misadventure, Fishing Rod of Misadventure
-tombstone:lost_tablet, Lost Tablet
-tombstone:dust_of_vanishing, Dust of Vanishing
-tombstone:soul_receptacle, Soul Receptacle
-tombstone:familiar_receptacle, Familiar Receptacle
-tombstone:voodoo_poppet, Voodoo Poppet
-tombstone:book_of_disenchantment, Book of Disenchantment
-tombstone:ankh_of_pray, Ânkh of Pray
-tombstone:lollypop:0, Halloween Lollipop
-tombstone:lollypop:1, Halloween Lollipop
-tombstone:lollypop:2, Halloween Lollipop
-tombstone:lollypop:3, Halloween Lollipop
-tombstone:lollypop:4, Halloween Lollipop
-tombstone:advancement:0, item.null.name
-tombstone:advancement:1, item.null.name
-tombstone:advancement:2, item.null.name
-tombstone:advancement:3, item.null.name
-tombstone:advancement:4, item.null.name
-tombstone:advancement:5, item.null.name
-tombstone:advancement:6, item.null.name
-tombstone:crafting_ingredient:0, Strange Scroll
-tombstone:crafting_ingredient:1, Strange Tablet
-tombstone:crafting_ingredient:2, Impregnated Diamond
-tombstone:crafting_ingredient:3, Grave's Dust
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 weirdinggadget:weirding_gadget, Weirding Gadget
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
@@ -16024,6 +17042,7 @@ buildcraftsilicon:redstone_chipset:1, Iron Chipset
 buildcraftsilicon:redstone_chipset:2, Golden Chipset
 buildcraftsilicon:redstone_chipset:3, Quartz Chipset
 buildcraftsilicon:redstone_chipset:4, Diamond Chipset
+buildcraftsilicon:gate_copier, Gate Copier
 buildcraftsilicon:plug_gate, item.gate.name
 buildcraftsilicon:plug_lens:0, §0§7Black§r Lens
 buildcraftsilicon:plug_lens:1, §z§e§cRed§r Lens
@@ -16488,123 +17507,207 @@ blockcraftery:editable_pressure_plate_all_reinforced, Reinforced Framed Pressure
 blockcraftery:editable_pressure_plate_items_reinforced, Reinforced Framed Pressure Plate (Items)
 blockcraftery:editable_pressure_plate_mobs_reinforced, Reinforced Framed Pressure Plate (Mobs)
 blockcraftery:editable_pressure_plate_player_reinforced, Reinforced Framed Pressure Plate (Players)
+jaopca:block_blockascendium, Block of %s
 jaopca:block_blockbluediamond, Block of %s
 jaopca:block_blockcertusquartz, Block of %s
 jaopca:block_blockchargedcertusquartz, Block of %s
 jaopca:block_blockdimensionalshard, Block of %s
 jaopca:block_blockgreendiamond, Block of %s
+jaopca:block_blockheartium, Block of %s
 jaopca:block_blockpurplediamond, Block of %s
 jaopca:block_blockreddiamond, Block of %s
 jaopca:block_blockyellowdiamond, Block of %s
 jaopca:block_blocksulfur, Block of %s
 jaopca:item_dustardite, %s Dust
 jaopca:item_dustcarbon, %s Dust
-jaopca:item_dustcobalt, %s Dust
 jaopca:item_dustcrystal, %s Dust
 jaopca:item_dustdarkiron, %s Dust
 jaopca:item_dustdesh, %s Dust
+jaopca:item_dustetrium, %s Dust
 jaopca:item_dustmagnesium, %s Dust
 jaopca:item_dustmercury, %s Dust
 jaopca:item_dustmeteoriciron, %s Dust
 jaopca:item_dustpalladium, %s Dust
+jaopca:item_dustradium, %s Dust
 jaopca:item_dusttitanium, %s Dust
 jaopca:item_dusttungsten, %s Dust
-jaopca:item_dustzinc, %s Dust
+jaopca:item_dustamber, %s Dust
+jaopca:item_dustaquamarine, %s Dust
+jaopca:item_dustascendium, %s Dust
+jaopca:item_dustazurite, %s Dust
 jaopca:item_dustbluediamond, %s Dust
 jaopca:item_dustbluegem, %s Dust
 jaopca:item_dustchargedcertusquartz, %s Dust
 jaopca:item_dustdimensionalshard, %s Dust
-jaopca:item_dustemerald, %s Dust
+jaopca:item_dustgarnet, %s Dust
 jaopca:item_dustgreendiamond, %s Dust
+jaopca:item_dustheartium, %s Dust
+jaopca:item_dustlostdiamond, %s Dust
+jaopca:item_dustopal, %s Dust
+jaopca:item_dustpromethean, %s Dust
 jaopca:item_dustpurplediamond, %s Dust
 jaopca:item_dustreddiamond, %s Dust
 jaopca:item_dustredgem, %s Dust
+jaopca:item_dustruby, %s Dust
+jaopca:item_dustsuperchargedcoal, %s Dust
+jaopca:item_dusttopaz, %s Dust
 jaopca:item_dustwhitegem, %s Dust
+jaopca:item_dustwitherite, %s Dust
 jaopca:item_dustyellowdiamond, %s Dust
+jaopca:item_nuggetamaranth, %s Nugget
 jaopca:item_nuggetcarbon, %s Nugget
+jaopca:item_nuggetchargium, %s Nugget
 jaopca:item_nuggetcrystal, %s Nugget
 jaopca:item_nuggetdarkiron, %s Nugget
 jaopca:item_nuggetdesh, %s Nugget
+jaopca:item_nuggetetrium, %s Nugget
+jaopca:item_nuggetevenium, %s Nugget
+jaopca:item_nuggetfueltonium, %s Nugget
 jaopca:item_nuggetmagnesium, %s Nugget
 jaopca:item_nuggetmercury, %s Nugget
 jaopca:item_nuggetmeteoriciron, %s Nugget
 jaopca:item_nuggetpalladium, %s Nugget
+jaopca:item_nuggetplutonium, %s Nugget
+jaopca:item_nuggetradium, %s Nugget
+jaopca:item_nuggetshinium, %s Nugget
 jaopca:item_nuggettitanium, %s Nugget
 jaopca:item_nuggettungsten, %s Nugget
 jaopca:item_nuggeturanium, %s Nugget
+jaopca:item_nuggetvirinium, %s Nugget
 jaopca:item_nuggetyellorium, %s Nugget
 jaopca:item_nuggetzinc, %s Nugget
+jaopca:item_nuggetzollernium, %s Nugget
+jaopca:item_nuggetamber, %s Nugget
+jaopca:item_nuggetaquamarine, %s Nugget
+jaopca:item_nuggetascendium, %s Nugget
+jaopca:item_nuggetazurite, %s Nugget
 jaopca:item_nuggetbluediamond, %s Nugget
 jaopca:item_nuggetbluegem, %s Nugget
 jaopca:item_nuggetcertusquartz, %s Nugget
 jaopca:item_nuggetchargedcertusquartz, %s Nugget
 jaopca:item_nuggetcoal, %s Nugget
 jaopca:item_nuggetdimensionalshard, %s Nugget
+jaopca:item_nuggetgarnet, %s Nugget
 jaopca:item_nuggetgreendiamond, %s Nugget
+jaopca:item_nuggetheartium, %s Nugget
 jaopca:item_nuggetlapis, %s Nugget
+jaopca:item_nuggetlostdiamond, %s Nugget
+jaopca:item_nuggetopal, %s Nugget
+jaopca:item_nuggetpromethean, %s Nugget
 jaopca:item_nuggetpurplediamond, %s Nugget
 jaopca:item_nuggetquartz, %s Nugget
 jaopca:item_nuggetreddiamond, %s Nugget
 jaopca:item_nuggetredgem, %s Nugget
+jaopca:item_nuggetruby, %s Nugget
+jaopca:item_nuggetsuperchargedcoal, %s Nugget
+jaopca:item_nuggettopaz, %s Nugget
 jaopca:item_nuggetwhitegem, %s Nugget
+jaopca:item_nuggetwitherite, %s Nugget
 jaopca:item_nuggetyellowdiamond, %s Nugget
+jaopca:item_coinamaranth, %s Coin
 jaopca:item_coinardite, %s Coin
 jaopca:item_coincarbon, %s Coin
+jaopca:item_coinchargium, %s Coin
 jaopca:item_coincobalt, %s Coin
 jaopca:item_coincrystal, %s Coin
 jaopca:item_coindarkiron, %s Coin
 jaopca:item_coindesh, %s Coin
+jaopca:item_coinetrium, %s Coin
+jaopca:item_coinevenium, %s Coin
+jaopca:item_coinfueltonium, %s Coin
 jaopca:item_coinmagnesium, %s Coin
 jaopca:item_coinmercury, %s Coin
 jaopca:item_coinmeteoriciron, %s Coin
 jaopca:item_coinosmium, %s Coin
 jaopca:item_coinpalladium, %s Coin
+jaopca:item_coinplutonium, %s Coin
+jaopca:item_coinradium, %s Coin
+jaopca:item_coinshinium, %s Coin
 jaopca:item_cointitanium, %s Coin
 jaopca:item_cointungsten, %s Coin
 jaopca:item_coinuranium, %s Coin
+jaopca:item_coinvirinium, %s Coin
 jaopca:item_coinyellorium, %s Coin
 jaopca:item_coinzinc, %s Coin
+jaopca:item_coinzollernium, %s Coin
+jaopca:item_gearamaranth, %s Gear
 jaopca:item_gearardite, %s Gear
 jaopca:item_gearcarbon, %s Gear
+jaopca:item_gearchargium, %s Gear
 jaopca:item_gearcobalt, %s Gear
 jaopca:item_gearcrystal, %s Gear
 jaopca:item_geardarkiron, %s Gear
 jaopca:item_geardesh, %s Gear
+jaopca:item_gearetrium, %s Gear
+jaopca:item_gearevenium, %s Gear
+jaopca:item_gearfueltonium, %s Gear
 jaopca:item_gearmagnesium, %s Gear
 jaopca:item_gearmercury, %s Gear
 jaopca:item_gearmeteoriciron, %s Gear
 jaopca:item_gearosmium, %s Gear
 jaopca:item_gearpalladium, %s Gear
+jaopca:item_gearplutonium, %s Gear
+jaopca:item_gearradium, %s Gear
+jaopca:item_gearshinium, %s Gear
 jaopca:item_geartitanium, %s Gear
 jaopca:item_geartungsten, %s Gear
 jaopca:item_gearuranium, %s Gear
+jaopca:item_gearvirinium, %s Gear
 jaopca:item_gearyellorium, %s Gear
 jaopca:item_gearzinc, %s Gear
+jaopca:item_gearzollernium, %s Gear
+jaopca:item_gearamber, %s Gear
+jaopca:item_gearaquamarine, %s Gear
+jaopca:item_gearascendium, %s Gear
+jaopca:item_gearazurite, %s Gear
 jaopca:item_gearbluediamond, %s Gear
 jaopca:item_gearbluegem, %s Gear
 jaopca:item_gearcertusquartz, %s Gear
 jaopca:item_gearchargedcertusquartz, %s Gear
 jaopca:item_gearcoal, %s Gear
 jaopca:item_geardimensionalshard, %s Gear
+jaopca:item_geargarnet, %s Gear
 jaopca:item_geargreendiamond, %s Gear
+jaopca:item_gearheartium, %s Gear
 jaopca:item_gearlapis, %s Gear
+jaopca:item_gearlostdiamond, %s Gear
+jaopca:item_gearopal, %s Gear
+jaopca:item_gearpromethean, %s Gear
 jaopca:item_gearpurplediamond, %s Gear
 jaopca:item_gearquartz, %s Gear
 jaopca:item_gearreddiamond, %s Gear
 jaopca:item_gearredgem, %s Gear
+jaopca:item_gearruby, %s Gear
+jaopca:item_gearsuperchargedcoal, %s Gear
+jaopca:item_geartopaz, %s Gear
 jaopca:item_gearwhitegem, %s Gear
+jaopca:item_gearwitherite, %s Gear
 jaopca:item_gearyellowdiamond, %s Gear
+jaopca:item_plateamaranth, %s Plate
 jaopca:item_plateardite, %s Plate
+jaopca:item_platechargium, %s Plate
 jaopca:item_platecrystal, %s Plate
 jaopca:item_platedarkiron, %s Plate
+jaopca:item_plateetrium, %s Plate
+jaopca:item_plateevenium, %s Plate
+jaopca:item_platefueltonium, %s Plate
 jaopca:item_platemercury, %s Plate
 jaopca:item_platemeteoriciron, %s Plate
 jaopca:item_plateosmium, %s Plate
 jaopca:item_platepalladium, %s Plate
+jaopca:item_plateplutonium, %s Plate
+jaopca:item_plateradium, %s Plate
+jaopca:item_plateshinium, %s Plate
 jaopca:item_platetungsten, %s Plate
 jaopca:item_plateuranium, %s Plate
+jaopca:item_platevirinium, %s Plate
 jaopca:item_plateyellorium, %s Plate
 jaopca:item_platezinc, %s Plate
+jaopca:item_platezollernium, %s Plate
+jaopca:item_plateamber, %s Plate
+jaopca:item_plateaquamarine, %s Plate
+jaopca:item_plateascendium, %s Plate
+jaopca:item_plateazurite, %s Plate
 jaopca:item_platebluediamond, %s Plate
 jaopca:item_platebluegem, %s Plate
 jaopca:item_platecertusquartz, %s Plate
@@ -16612,23 +17715,40 @@ jaopca:item_platechargedcertusquartz, %s Plate
 jaopca:item_platediamond, %s Plate
 jaopca:item_platedimensionalshard, %s Plate
 jaopca:item_plateemerald, %s Plate
+jaopca:item_plategarnet, %s Plate
 jaopca:item_plategreendiamond, %s Plate
+jaopca:item_plateheartium, %s Plate
 jaopca:item_platelapis, %s Plate
+jaopca:item_platelostdiamond, %s Plate
+jaopca:item_plateopal, %s Plate
+jaopca:item_platepromethean, %s Plate
 jaopca:item_platepurplediamond, %s Plate
 jaopca:item_platequartz, %s Plate
 jaopca:item_platereddiamond, %s Plate
 jaopca:item_plateredgem, %s Plate
+jaopca:item_plateruby, %s Plate
+jaopca:item_platesuperchargedcoal, %s Plate
+jaopca:item_platetopaz, %s Plate
 jaopca:item_platewhitegem, %s Plate
+jaopca:item_platewitherite, %s Plate
 jaopca:item_plateyellowdiamond, %s Plate
 jaopca:item_stickaluminium, %s Rod
+jaopca:item_stickamaranth, %s Rod
 jaopca:item_stickardite, %s Rod
+jaopca:item_stickbronze, %s Rod
 jaopca:item_stickcarbon, %s Rod
+jaopca:item_stickchargium, %s Rod
 jaopca:item_stickcobalt, %s Rod
 jaopca:item_stickcopper, %s Rod
 jaopca:item_stickcrystal, %s Rod
 jaopca:item_stickdarkiron, %s Rod
 jaopca:item_stickdesh, %s Rod
+jaopca:item_stickelectrum, %s Rod
+jaopca:item_sticketrium, %s Rod
+jaopca:item_stickevenium, %s Rod
+jaopca:item_stickfueltonium, %s Rod
 jaopca:item_stickgold, %s Rod
+jaopca:item_stickinvar, %s Rod
 jaopca:item_stickiridium, %s Rod
 jaopca:item_stickiron, %s Rod
 jaopca:item_sticklead, %s Rod
@@ -16640,13 +17760,23 @@ jaopca:item_sticknickel, %s Rod
 jaopca:item_stickosmium, %s Rod
 jaopca:item_stickpalladium, %s Rod
 jaopca:item_stickplatinum, %s Rod
+jaopca:item_stickplutonium, %s Rod
+jaopca:item_stickradium, %s Rod
+jaopca:item_stickshinium, %s Rod
 jaopca:item_sticksilver, %s Rod
+jaopca:item_sticksteel, %s Rod
 jaopca:item_sticktin, %s Rod
 jaopca:item_sticktitanium, %s Rod
 jaopca:item_sticktungsten, %s Rod
 jaopca:item_stickuranium, %s Rod
+jaopca:item_stickvirinium, %s Rod
 jaopca:item_stickyellorium, %s Rod
 jaopca:item_stickzinc, %s Rod
+jaopca:item_stickzollernium, %s Rod
+jaopca:item_stickamber, %s Rod
+jaopca:item_stickaquamarine, %s Rod
+jaopca:item_stickascendium, %s Rod
+jaopca:item_stickazurite, %s Rod
 jaopca:item_stickbluediamond, %s Rod
 jaopca:item_stickbluegem, %s Rod
 jaopca:item_stickcertusquartz, %s Rod
@@ -16655,20 +17785,36 @@ jaopca:item_stickcoal, %s Rod
 jaopca:item_stickdiamond, %s Rod
 jaopca:item_stickdimensionalshard, %s Rod
 jaopca:item_stickemerald, %s Rod
+jaopca:item_stickgarnet, %s Rod
 jaopca:item_stickgreendiamond, %s Rod
+jaopca:item_stickheartium, %s Rod
 jaopca:item_sticklapis, %s Rod
+jaopca:item_sticklostdiamond, %s Rod
+jaopca:item_stickopal, %s Rod
+jaopca:item_stickpromethean, %s Rod
 jaopca:item_stickpurplediamond, %s Rod
 jaopca:item_stickquartz, %s Rod
 jaopca:item_stickreddiamond, %s Rod
 jaopca:item_stickredgem, %s Rod
+jaopca:item_stickruby, %s Rod
+jaopca:item_sticksuperchargedcoal, %s Rod
+jaopca:item_sticktopaz, %s Rod
 jaopca:item_stickwhitegem, %s Rod
+jaopca:item_stickwitherite, %s Rod
 jaopca:item_stickyellowdiamond, %s Rod
+jaopca:item_dusttinyamaranth, Tiny Pile of %s Dust
 jaopca:item_dusttinyardite, Tiny Pile of %s Dust
 jaopca:item_dusttinycarbon, Tiny Pile of %s Dust
+jaopca:item_dusttinychargium, Tiny Pile of %s Dust
 jaopca:item_dusttinycobalt, Tiny Pile of %s Dust
 jaopca:item_dusttinycrystal, Tiny Pile of %s Dust
 jaopca:item_dusttinydarkiron, Tiny Pile of %s Dust
 jaopca:item_dusttinydesh, Tiny Pile of %s Dust
+jaopca:item_dusttinyelectrum, Tiny Pile of %s Dust
+jaopca:item_dusttinyetrium, Tiny Pile of %s Dust
+jaopca:item_dusttinyevenium, Tiny Pile of %s Dust
+jaopca:item_dusttinyfueltonium, Tiny Pile of %s Dust
+jaopca:item_dusttinyinvar, Tiny Pile of %s Dust
 jaopca:item_dusttinyiridium, Tiny Pile of %s Dust
 jaopca:item_dusttinymagnesium, Tiny Pile of %s Dust
 jaopca:item_dusttinymercury, Tiny Pile of %s Dust
@@ -16676,10 +17822,19 @@ jaopca:item_dusttinymeteoriciron, Tiny Pile of %s Dust
 jaopca:item_dusttinymithril, Tiny Pile of %s Dust
 jaopca:item_dusttinyosmium, Tiny Pile of %s Dust
 jaopca:item_dusttinypalladium, Tiny Pile of %s Dust
+jaopca:item_dusttinyradium, Tiny Pile of %s Dust
+jaopca:item_dusttinyshinium, Tiny Pile of %s Dust
+jaopca:item_dusttinysteel, Tiny Pile of %s Dust
 jaopca:item_dusttinytungsten, Tiny Pile of %s Dust
 jaopca:item_dusttinyuranium, Tiny Pile of %s Dust
+jaopca:item_dusttinyvirinium, Tiny Pile of %s Dust
 jaopca:item_dusttinyyellorium, Tiny Pile of %s Dust
 jaopca:item_dusttinyzinc, Tiny Pile of %s Dust
+jaopca:item_dusttinyzollernium, Tiny Pile of %s Dust
+jaopca:item_dusttinyamber, Tiny Pile of %s Dust
+jaopca:item_dusttinyaquamarine, Tiny Pile of %s Dust
+jaopca:item_dusttinyascendium, Tiny Pile of %s Dust
+jaopca:item_dusttinyazurite, Tiny Pile of %s Dust
 jaopca:item_dusttinybluediamond, Tiny Pile of %s Dust
 jaopca:item_dusttinybluegem, Tiny Pile of %s Dust
 jaopca:item_dusttinycertusquartz, Tiny Pile of %s Dust
@@ -16688,22 +17843,38 @@ jaopca:item_dusttinycoal, Tiny Pile of %s Dust
 jaopca:item_dusttinydiamond, Tiny Pile of %s Dust
 jaopca:item_dusttinydimensionalshard, Tiny Pile of %s Dust
 jaopca:item_dusttinyemerald, Tiny Pile of %s Dust
+jaopca:item_dusttinygarnet, Tiny Pile of %s Dust
 jaopca:item_dusttinygreendiamond, Tiny Pile of %s Dust
+jaopca:item_dusttinyheartium, Tiny Pile of %s Dust
+jaopca:item_dusttinylostdiamond, Tiny Pile of %s Dust
+jaopca:item_dusttinyopal, Tiny Pile of %s Dust
+jaopca:item_dusttinypromethean, Tiny Pile of %s Dust
 jaopca:item_dusttinypurplediamond, Tiny Pile of %s Dust
 jaopca:item_dusttinyquartz, Tiny Pile of %s Dust
 jaopca:item_dusttinyreddiamond, Tiny Pile of %s Dust
 jaopca:item_dusttinyredgem, Tiny Pile of %s Dust
+jaopca:item_dusttinyruby, Tiny Pile of %s Dust
+jaopca:item_dusttinysuperchargedcoal, Tiny Pile of %s Dust
+jaopca:item_dusttinytopaz, Tiny Pile of %s Dust
 jaopca:item_dusttinywhitegem, Tiny Pile of %s Dust
+jaopca:item_dusttinywitherite, Tiny Pile of %s Dust
 jaopca:item_dusttinyyellowdiamond, Tiny Pile of %s Dust
 jaopca:item_dusttinyredstone, Tiny Pile of %s Dust
 jaopca:item_dusttinysulfur, Tiny Pile of %s Dust
 jaopca:item_dustsmallaluminium, Small Pile of %s Dust
+jaopca:item_dustsmallamaranth, Small Pile of %s Dust
 jaopca:item_dustsmallardite, Small Pile of %s Dust
 jaopca:item_dustsmallcarbon, Small Pile of %s Dust
+jaopca:item_dustsmallchargium, Small Pile of %s Dust
 jaopca:item_dustsmallcobalt, Small Pile of %s Dust
 jaopca:item_dustsmallcrystal, Small Pile of %s Dust
 jaopca:item_dustsmalldarkiron, Small Pile of %s Dust
 jaopca:item_dustsmalldesh, Small Pile of %s Dust
+jaopca:item_dustsmallelectrum, Small Pile of %s Dust
+jaopca:item_dustsmalletrium, Small Pile of %s Dust
+jaopca:item_dustsmallevenium, Small Pile of %s Dust
+jaopca:item_dustsmallfueltonium, Small Pile of %s Dust
+jaopca:item_dustsmallinvar, Small Pile of %s Dust
 jaopca:item_dustsmalliridium, Small Pile of %s Dust
 jaopca:item_dustsmallmagnesium, Small Pile of %s Dust
 jaopca:item_dustsmallmercury, Small Pile of %s Dust
@@ -16713,11 +17884,20 @@ jaopca:item_dustsmallnickel, Small Pile of %s Dust
 jaopca:item_dustsmallosmium, Small Pile of %s Dust
 jaopca:item_dustsmallpalladium, Small Pile of %s Dust
 jaopca:item_dustsmallplatinum, Small Pile of %s Dust
+jaopca:item_dustsmallradium, Small Pile of %s Dust
+jaopca:item_dustsmallshinium, Small Pile of %s Dust
+jaopca:item_dustsmallsteel, Small Pile of %s Dust
 jaopca:item_dustsmalltitanium, Small Pile of %s Dust
 jaopca:item_dustsmalltungsten, Small Pile of %s Dust
 jaopca:item_dustsmalluranium, Small Pile of %s Dust
+jaopca:item_dustsmallvirinium, Small Pile of %s Dust
 jaopca:item_dustsmallyellorium, Small Pile of %s Dust
 jaopca:item_dustsmallzinc, Small Pile of %s Dust
+jaopca:item_dustsmallzollernium, Small Pile of %s Dust
+jaopca:item_dustsmallamber, Small Pile of %s Dust
+jaopca:item_dustsmallaquamarine, Small Pile of %s Dust
+jaopca:item_dustsmallascendium, Small Pile of %s Dust
+jaopca:item_dustsmallazurite, Small Pile of %s Dust
 jaopca:item_dustsmallbluediamond, Small Pile of %s Dust
 jaopca:item_dustsmallbluegem, Small Pile of %s Dust
 jaopca:item_dustsmallcertusquartz, Small Pile of %s Dust
@@ -16726,25 +17906,42 @@ jaopca:item_dustsmallcoal, Small Pile of %s Dust
 jaopca:item_dustsmalldiamond, Small Pile of %s Dust
 jaopca:item_dustsmalldimensionalshard, Small Pile of %s Dust
 jaopca:item_dustsmallemerald, Small Pile of %s Dust
+jaopca:item_dustsmallgarnet, Small Pile of %s Dust
 jaopca:item_dustsmallgreendiamond, Small Pile of %s Dust
+jaopca:item_dustsmallheartium, Small Pile of %s Dust
 jaopca:item_dustsmalllapis, Small Pile of %s Dust
+jaopca:item_dustsmalllostdiamond, Small Pile of %s Dust
+jaopca:item_dustsmallopal, Small Pile of %s Dust
+jaopca:item_dustsmallpromethean, Small Pile of %s Dust
 jaopca:item_dustsmallpurplediamond, Small Pile of %s Dust
 jaopca:item_dustsmallquartz, Small Pile of %s Dust
 jaopca:item_dustsmallreddiamond, Small Pile of %s Dust
 jaopca:item_dustsmallredgem, Small Pile of %s Dust
+jaopca:item_dustsmallruby, Small Pile of %s Dust
+jaopca:item_dustsmallsuperchargedcoal, Small Pile of %s Dust
+jaopca:item_dustsmalltopaz, Small Pile of %s Dust
 jaopca:item_dustsmallwhitegem, Small Pile of %s Dust
+jaopca:item_dustsmallwitherite, Small Pile of %s Dust
 jaopca:item_dustsmallyellowdiamond, Small Pile of %s Dust
 jaopca:item_dustsmallredstone, Small Pile of %s Dust
 jaopca:item_dustsmallsulfur, Small Pile of %s Dust
 jaopca:item_platedensealuminium, Dense %s Plate
+jaopca:item_platedenseamaranth, Dense %s Plate
 jaopca:item_platedenseardite, Dense %s Plate
+jaopca:item_platedensebronze, Dense %s Plate
 jaopca:item_platedensecarbon, Dense %s Plate
+jaopca:item_platedensechargium, Dense %s Plate
 jaopca:item_platedensecobalt, Dense %s Plate
 jaopca:item_platedensecopper, Dense %s Plate
 jaopca:item_platedensecrystal, Dense %s Plate
 jaopca:item_platedensedarkiron, Dense %s Plate
 jaopca:item_platedensedesh, Dense %s Plate
+jaopca:item_platedenseelectrum, Dense %s Plate
+jaopca:item_platedenseetrium, Dense %s Plate
+jaopca:item_platedenseevenium, Dense %s Plate
+jaopca:item_platedensefueltonium, Dense %s Plate
 jaopca:item_platedensegold, Dense %s Plate
+jaopca:item_platedenseinvar, Dense %s Plate
 jaopca:item_platedenseiridium, Dense %s Plate
 jaopca:item_platedensemagnesium, Dense %s Plate
 jaopca:item_platedensemercury, Dense %s Plate
@@ -16754,13 +17951,23 @@ jaopca:item_platedensenickel, Dense %s Plate
 jaopca:item_platedenseosmium, Dense %s Plate
 jaopca:item_platedensepalladium, Dense %s Plate
 jaopca:item_platedenseplatinum, Dense %s Plate
+jaopca:item_platedenseplutonium, Dense %s Plate
+jaopca:item_platedenseradium, Dense %s Plate
+jaopca:item_platedenseshinium, Dense %s Plate
 jaopca:item_platedensesilver, Dense %s Plate
+jaopca:item_platedensesteel, Dense %s Plate
 jaopca:item_platedensetin, Dense %s Plate
 jaopca:item_platedensetitanium, Dense %s Plate
 jaopca:item_platedensetungsten, Dense %s Plate
 jaopca:item_platedenseuranium, Dense %s Plate
+jaopca:item_platedensevirinium, Dense %s Plate
 jaopca:item_platedenseyellorium, Dense %s Plate
 jaopca:item_platedensezinc, Dense %s Plate
+jaopca:item_platedensezollernium, Dense %s Plate
+jaopca:item_platedenseamber, Dense %s Plate
+jaopca:item_platedenseaquamarine, Dense %s Plate
+jaopca:item_platedenseascendium, Dense %s Plate
+jaopca:item_platedenseazurite, Dense %s Plate
 jaopca:item_platedensebluediamond, Dense %s Plate
 jaopca:item_platedensebluegem, Dense %s Plate
 jaopca:item_platedensecertusquartz, Dense %s Plate
@@ -16769,21 +17976,38 @@ jaopca:item_platedensecoal, Dense %s Plate
 jaopca:item_platedensediamond, Dense %s Plate
 jaopca:item_platedensedimensionalshard, Dense %s Plate
 jaopca:item_platedenseemerald, Dense %s Plate
+jaopca:item_platedensegarnet, Dense %s Plate
 jaopca:item_platedensegreendiamond, Dense %s Plate
+jaopca:item_platedenseheartium, Dense %s Plate
 jaopca:item_platedenselapis, Dense %s Plate
+jaopca:item_platedenselostdiamond, Dense %s Plate
+jaopca:item_platedenseopal, Dense %s Plate
+jaopca:item_platedensepromethean, Dense %s Plate
 jaopca:item_platedensepurplediamond, Dense %s Plate
 jaopca:item_platedensequartz, Dense %s Plate
 jaopca:item_platedensereddiamond, Dense %s Plate
 jaopca:item_platedenseredgem, Dense %s Plate
+jaopca:item_platedenseruby, Dense %s Plate
+jaopca:item_platedensesuperchargedcoal, Dense %s Plate
+jaopca:item_platedensetopaz, Dense %s Plate
 jaopca:item_platedensewhitegem, Dense %s Plate
+jaopca:item_platedensewitherite, Dense %s Plate
 jaopca:item_platedenseyellowdiamond, Dense %s Plate
 jaopca:item_dustdirtyaluminium, Dirty %s Dust
+jaopca:item_dustdirtyamaranth, Dirty %s Dust
 jaopca:item_dustdirtyardite, Dirty %s Dust
+jaopca:item_dustdirtybronze, Dirty %s Dust
 jaopca:item_dustdirtycarbon, Dirty %s Dust
+jaopca:item_dustdirtychargium, Dirty %s Dust
 jaopca:item_dustdirtycobalt, Dirty %s Dust
 jaopca:item_dustdirtycrystal, Dirty %s Dust
 jaopca:item_dustdirtydarkiron, Dirty %s Dust
 jaopca:item_dustdirtydesh, Dirty %s Dust
+jaopca:item_dustdirtyelectrum, Dirty %s Dust
+jaopca:item_dustdirtyetrium, Dirty %s Dust
+jaopca:item_dustdirtyevenium, Dirty %s Dust
+jaopca:item_dustdirtyfueltonium, Dirty %s Dust
+jaopca:item_dustdirtyinvar, Dirty %s Dust
 jaopca:item_dustdirtyiridium, Dirty %s Dust
 jaopca:item_dustdirtymagnesium, Dirty %s Dust
 jaopca:item_dustdirtymercury, Dirty %s Dust
@@ -16792,18 +18016,32 @@ jaopca:item_dustdirtymithril, Dirty %s Dust
 jaopca:item_dustdirtynickel, Dirty %s Dust
 jaopca:item_dustdirtypalladium, Dirty %s Dust
 jaopca:item_dustdirtyplatinum, Dirty %s Dust
+jaopca:item_dustdirtyplutonium, Dirty %s Dust
+jaopca:item_dustdirtyradium, Dirty %s Dust
+jaopca:item_dustdirtyshinium, Dirty %s Dust
+jaopca:item_dustdirtysteel, Dirty %s Dust
 jaopca:item_dustdirtytitanium, Dirty %s Dust
 jaopca:item_dustdirtytungsten, Dirty %s Dust
 jaopca:item_dustdirtyuranium, Dirty %s Dust
+jaopca:item_dustdirtyvirinium, Dirty %s Dust
 jaopca:item_dustdirtyyellorium, Dirty %s Dust
 jaopca:item_dustdirtyzinc, Dirty %s Dust
+jaopca:item_dustdirtyzollernium, Dirty %s Dust
 jaopca:item_clumpaluminium, %s Clump
+jaopca:item_clumpamaranth, %s Clump
 jaopca:item_clumpardite, %s Clump
+jaopca:item_clumpbronze, %s Clump
 jaopca:item_clumpcarbon, %s Clump
+jaopca:item_clumpchargium, %s Clump
 jaopca:item_clumpcobalt, %s Clump
 jaopca:item_clumpcrystal, %s Clump
 jaopca:item_clumpdarkiron, %s Clump
 jaopca:item_clumpdesh, %s Clump
+jaopca:item_clumpelectrum, %s Clump
+jaopca:item_clumpetrium, %s Clump
+jaopca:item_clumpevenium, %s Clump
+jaopca:item_clumpfueltonium, %s Clump
+jaopca:item_clumpinvar, %s Clump
 jaopca:item_clumpiridium, %s Clump
 jaopca:item_clumpmagnesium, %s Clump
 jaopca:item_clumpmercury, %s Clump
@@ -16812,18 +18050,32 @@ jaopca:item_clumpmithril, %s Clump
 jaopca:item_clumpnickel, %s Clump
 jaopca:item_clumppalladium, %s Clump
 jaopca:item_clumpplatinum, %s Clump
+jaopca:item_clumpplutonium, %s Clump
+jaopca:item_clumpradium, %s Clump
+jaopca:item_clumpshinium, %s Clump
+jaopca:item_clumpsteel, %s Clump
 jaopca:item_clumptitanium, %s Clump
 jaopca:item_clumptungsten, %s Clump
 jaopca:item_clumpuranium, %s Clump
+jaopca:item_clumpvirinium, %s Clump
 jaopca:item_clumpyellorium, %s Clump
 jaopca:item_clumpzinc, %s Clump
+jaopca:item_clumpzollernium, %s Clump
 jaopca:item_shardaluminium, %s Shard
+jaopca:item_shardamaranth, %s Shard
 jaopca:item_shardardite, %s Shard
+jaopca:item_shardbronze, %s Shard
 jaopca:item_shardcarbon, %s Shard
+jaopca:item_shardchargium, %s Shard
 jaopca:item_shardcobalt, %s Shard
 jaopca:item_shardcrystal, %s Shard
 jaopca:item_sharddarkiron, %s Shard
 jaopca:item_sharddesh, %s Shard
+jaopca:item_shardelectrum, %s Shard
+jaopca:item_shardetrium, %s Shard
+jaopca:item_shardevenium, %s Shard
+jaopca:item_shardfueltonium, %s Shard
+jaopca:item_shardinvar, %s Shard
 jaopca:item_shardiridium, %s Shard
 jaopca:item_shardmagnesium, %s Shard
 jaopca:item_shardmercury, %s Shard
@@ -16832,18 +18084,32 @@ jaopca:item_shardmithril, %s Shard
 jaopca:item_shardnickel, %s Shard
 jaopca:item_shardpalladium, %s Shard
 jaopca:item_shardplatinum, %s Shard
+jaopca:item_shardplutonium, %s Shard
+jaopca:item_shardradium, %s Shard
+jaopca:item_shardshinium, %s Shard
+jaopca:item_shardsteel, %s Shard
 jaopca:item_shardtitanium, %s Shard
 jaopca:item_shardtungsten, %s Shard
 jaopca:item_sharduranium, %s Shard
+jaopca:item_shardvirinium, %s Shard
 jaopca:item_shardyellorium, %s Shard
 jaopca:item_shardzinc, %s Shard
+jaopca:item_shardzollernium, %s Shard
 jaopca:item_crystalaluminium, %s Crystal
+jaopca:item_crystalamaranth, %s Crystal
 jaopca:item_crystalardite, %s Crystal
+jaopca:item_crystalbronze, %s Crystal
 jaopca:item_crystalcarbon, %s Crystal
+jaopca:item_crystalchargium, %s Crystal
 jaopca:item_crystalcobalt, %s Crystal
 jaopca:item_crystalcrystal, %s Crystal
 jaopca:item_crystaldarkiron, %s Crystal
 jaopca:item_crystaldesh, %s Crystal
+jaopca:item_crystalelectrum, %s Crystal
+jaopca:item_crystaletrium, %s Crystal
+jaopca:item_crystalevenium, %s Crystal
+jaopca:item_crystalfueltonium, %s Crystal
+jaopca:item_crystalinvar, %s Crystal
 jaopca:item_crystaliridium, %s Crystal
 jaopca:item_crystalmagnesium, %s Crystal
 jaopca:item_crystalmercury, %s Crystal
@@ -16852,17 +18118,31 @@ jaopca:item_crystalmithril, %s Crystal
 jaopca:item_crystalnickel, %s Crystal
 jaopca:item_crystalpalladium, %s Crystal
 jaopca:item_crystalplatinum, %s Crystal
+jaopca:item_crystalplutonium, %s Crystal
+jaopca:item_crystalradium, %s Crystal
+jaopca:item_crystalshinium, %s Crystal
+jaopca:item_crystalsteel, %s Crystal
 jaopca:item_crystaltitanium, %s Crystal
 jaopca:item_crystaltungsten, %s Crystal
 jaopca:item_crystaluranium, %s Crystal
+jaopca:item_crystalvirinium, %s Crystal
 jaopca:item_crystalyellorium, %s Crystal
 jaopca:item_crystalzinc, %s Crystal
+jaopca:item_crystalzollernium, %s Crystal
+jaopca:item_crushedamaranth, Crushed %s Ore
 jaopca:item_crushedardite, Crushed %s Ore
+jaopca:item_crushedbronze, Crushed %s Ore
 jaopca:item_crushedcarbon, Crushed %s Ore
+jaopca:item_crushedchargium, Crushed %s Ore
 jaopca:item_crushedcobalt, Crushed %s Ore
 jaopca:item_crushedcrystal, Crushed %s Ore
 jaopca:item_crusheddarkiron, Crushed %s Ore
 jaopca:item_crusheddesh, Crushed %s Ore
+jaopca:item_crushedelectrum, Crushed %s Ore
+jaopca:item_crushedetrium, Crushed %s Ore
+jaopca:item_crushedevenium, Crushed %s Ore
+jaopca:item_crushedfueltonium, Crushed %s Ore
+jaopca:item_crushedinvar, Crushed %s Ore
 jaopca:item_crushediridium, Crushed %s Ore
 jaopca:item_crushedmagnesium, Crushed %s Ore
 jaopca:item_crushedmercury, Crushed %s Ore
@@ -16870,16 +18150,30 @@ jaopca:item_crushedmeteoriciron, Crushed %s Ore
 jaopca:item_crushedmithril, Crushed %s Ore
 jaopca:item_crushedosmium, Crushed %s Ore
 jaopca:item_crushedpalladium, Crushed %s Ore
+jaopca:item_crushedplutonium, Crushed %s Ore
+jaopca:item_crushedradium, Crushed %s Ore
+jaopca:item_crushedshinium, Crushed %s Ore
+jaopca:item_crushedsteel, Crushed %s Ore
 jaopca:item_crushedtitanium, Crushed %s Ore
 jaopca:item_crushedtungsten, Crushed %s Ore
+jaopca:item_crushedvirinium, Crushed %s Ore
 jaopca:item_crushedyellorium, Crushed %s Ore
 jaopca:item_crushedzinc, Crushed %s Ore
+jaopca:item_crushedzollernium, Crushed %s Ore
+jaopca:item_crushedpurifiedamaranth, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedardite, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedbronze, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedcarbon, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedchargium, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedcobalt, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedcrystal, Purified Crushed %s Ore
 jaopca:item_crushedpurifieddarkiron, Purified Crushed %s Ore
 jaopca:item_crushedpurifieddesh, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedelectrum, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedetrium, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedevenium, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedfueltonium, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedinvar, Purified Crushed %s Ore
 jaopca:item_crushedpurifiediridium, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedmagnesium, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedmercury, Purified Crushed %s Ore
@@ -16887,20 +18181,33 @@ jaopca:item_crushedpurifiedmeteoriciron, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedmithril, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedosmium, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedpalladium, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedplutonium, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedradium, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedshinium, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedsteel, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedtitanium, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedtungsten, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedvirinium, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedyellorium, Purified Crushed %s Ore
 jaopca:item_crushedpurifiedzinc, Purified Crushed %s Ore
+jaopca:item_crushedpurifiedzollernium, Purified Crushed %s Ore
+jaopca:fluid_moltenamaranth, tile.jaopca.molten.name
 jaopca:fluid_moltencarbon, tile.jaopca.molten.name
 jaopca:fluid_moltencrystal, tile.jaopca.molten.name
 jaopca:fluid_moltendarkiron, tile.jaopca.molten.name
 jaopca:fluid_moltendesh, tile.jaopca.molten.name
+jaopca:fluid_moltenetrium, tile.jaopca.molten.name
+jaopca:fluid_moltenevenium, tile.jaopca.molten.name
 jaopca:fluid_moltenmagnesium, tile.jaopca.molten.name
 jaopca:fluid_moltenmercury, tile.jaopca.molten.name
 jaopca:fluid_moltenmeteoriciron, tile.jaopca.molten.name
 jaopca:fluid_moltenmithril, tile.jaopca.molten.name
 jaopca:fluid_moltenosmium, tile.jaopca.molten.name
 jaopca:fluid_moltenpalladium, tile.jaopca.molten.name
+jaopca:fluid_moltenplutonium, tile.jaopca.molten.name
+jaopca:fluid_moltenshinium, tile.jaopca.molten.name
 jaopca:fluid_moltentitanium, tile.jaopca.molten.name
 jaopca:fluid_moltentungsten, tile.jaopca.molten.name
 jaopca:fluid_moltenuranium, tile.jaopca.molten.name
+jaopca:fluid_moltenvirinium, tile.jaopca.molten.name
+jaopca:fluid_moltenzollernium, tile.jaopca.molten.name
